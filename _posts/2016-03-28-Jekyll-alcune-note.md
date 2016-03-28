@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jekyll: alcune note"
+title:  "Jekyll alcune note"
 date:   2016-03-28 22:34:25
 categories: blog
 tags: blog
@@ -24,5 +24,3 @@ Jekyll è un sistema di blogging fatto e pensato per sviluppatori, ma è anche p
 - Aggiungere i post nella folder "post" ed iniziare a bloggare
 
 In rete troverete molti post sul fatto che Jekyll sia necessariamente meglio di Wordpress. Io dico che effettivamente lo trovo un ottimo strumento per realizzare un blog. Ma per realizzare un blog. Wordpress è da tempo diventato uno strumento che, oltre ad avere qualche limite in termini di preformance e sicurezza, è anche "sovraaccessoriato" di plugin; questo ne fa un CMS che non è solo blogging ma anche altro, molto altro, forse troppo altro. Se avete bisogno di un framework di lavoro che vi consenta di fare blog concentrandovi sui contenuti di quello che scrivete, Jekyll è sicuramente più adeguato agli scopi. Vi obbliga a lavorare come uno scrittore, senza farvi perdere tempo con layout di ogni post, i plugin, i menu e senza mischiare quindi la forma con i contenuti del vostro blog. Una volta messo in piedi "il motore" ed il suo layout i post saranno la vostra unica preoccupazione. Non solo: nel caso vogliate un giorno modificare la forma del vostro blog non sarete costretti a rivere i contenuti perchè Jekyll "disaccoppia" completamente la parte di layout rispetto ai post del vostro blog.
-
-
