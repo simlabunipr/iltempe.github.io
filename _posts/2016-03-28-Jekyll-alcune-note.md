@@ -3,7 +3,7 @@ layout: post
 title:  "Jekyll alcune note"
 date:   2016-03-28 22:34:25
 categories: blog
-tags: blog
+tags: featured
 ---
 
 Digitando su Google la parola Jekyll troverete molti link relativi alla storia di Dr.Jekyll e Mr Hyde. Jekyll di cui parlo qui è però lo strumento con cui ho creato questo blog. E' quindi un'altra cosa. 
