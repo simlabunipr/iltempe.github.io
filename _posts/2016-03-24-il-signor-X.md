@@ -1,5 +1,9 @@
 ---
 layout: post
+title:  "Il signor X"
+date:   2016-03-24 14:34:25
+categories: blog
+tags: blog
 ---
 
 Il signor X è un signore sulla sessantina che fa colazione con me da circa due anni.
