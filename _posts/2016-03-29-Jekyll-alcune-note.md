@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jekyll alcune note"
-date:   2016-03-28 22:34:25
+date:   2016-03-29 13:34:25
 categories: blog
 tags: blog
 ---
