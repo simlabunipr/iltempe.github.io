@@ -4,7 +4,7 @@ title:  "Come fare un semplice portale Opendata per la gente della tua città"
 date:   2016-03-30 10:34:25
 categories: blog
 tags: featured
-image: /assets/article_images/2016-03-30-come-fare-un-portale-opendata-per-la-gente-della-tua-citt/Untitled design.jpg
+image: assets/article_images/2016-03-30-come-fare-un-portale-opendata-per-la-gente-della-tua-citt/Untitled%20design.jpg
 ---
 
 Oggi nasce [OpendataGentediPrato](http://iltempe.github.io/opendatagentediprato/) portale di dati aperti per la mia città. E' un portale di dati che vorrei fossero utili a tutti. Nasce con l'intento anche di essere un esempio per altre città dove ci fosse qualche buon cittadino che vuole creare uno spazio condivisio di dati a cui si possa associare una licenza aperta da rendere disponibile per i suoi cittadini.
