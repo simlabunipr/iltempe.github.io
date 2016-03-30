@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Come fare un semplice portale Opendata per la gente della tua città"
+title:  "Fare un semplice portale Opendata per la gente della tua città"
 date:   2016-03-30 10:34:25
 categories: blog
 tags: featured
