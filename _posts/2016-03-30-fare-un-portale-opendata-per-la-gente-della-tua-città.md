@@ -13,7 +13,7 @@ Come già detto in tanti miei post sono convinto che rilasciare dati aperti gene
 
 >Non si tratta di un portale "ufficiale", ma costruito da persone che vogliano mettere a disposizione un po' del loro tempo per divulgare dati utili al loro territorio. Scopo è far capire ai cittadini di Prato (e non solo) quale sia il valore generato dai dati aperti e come possano essere condivisi con tutti ed utilizzati.
 
-I dati archiviati qui non sono rilasciati da una Pubblica Amministrazione, ma da cittadini, questo portale non vuole in alcun modo entrare "in concorrenza" con portali esistenti della Pubblica Amministrazione, anzi può contribuire a valorizzare dati già esistenti, rilasciati da pubbliche amministrazioni indincandone la fonte. 
+I dati segnalati qui non sono rilasciati da una Pubblica Amministrazione, ma da cittadini. Questo portale non vuole in alcun modo entrare "in concorrenza" con portali esistenti della Pubblica Amministrazione, anzi può contribuire a valorizzare dati già esistenti, rilasciati da pubbliche amministrazioni indincandone la fonte. 
 
 Sul sito trovate le istruzioni anche per provare a fare quello della vostra città. Se avete confidenza con Github si fa in poco tempo.
 Se lo fate vi chiedo di segnalarmelo nell'ottica di sapere quali città sperimentano tutto questo.
