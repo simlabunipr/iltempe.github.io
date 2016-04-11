@@ -13,11 +13,11 @@ D'altra parte tutta questa sensibilità sui dati georeferenziati di Openstreetma
 
 Sicuramente consultando le community troverete molti modi, qui stasera ve ne illustro uno per elaborare una richiesta alla piattaforma Openstreetmap, salvare i risultati in un file e visualizzare in modo rapido i risultati archiviando questi dati su un vostro repository [Github](http://www.github.com). Questo metodo può essere molto utile se si vuole repidamente visualizzare certi dati su mappa, ma soprattutto se periodicamente si vuole aggiornare questi dati nel vostro repository, così da assicurare un "dato sempre fresco".
 
-##Occorrente
-> Account Github (è gratuito);
-> Un repository pubblico su Github;
-> Un computer con possibilità di eseguire comandi BASH (io uso un server con una distribuzione linux Debian, ma può andare bene un qualunque commputer connesso ad internet, potete farlo anche tramite una schedina Raspberry);
-> Un minimo di confidenza con i [tag Openstreetmap](http://wiki.openstreetmap.org/wiki/IT:Etichette);
+Occorrente
+- Account Github (è gratuito);
+- Un repository pubblico su Github;
+- Un computer con possibilità di eseguire comandi BASH (io uso un server con una distribuzione linux Debian, ma può andare bene un qualunque commputer connesso ad internet, potete farlo anche tramite una schedina Raspberry);
+- Un minimo di confidenza con i [tag Openstreetmap](http://wiki.openstreetmap.org/wiki/IT:Etichette);
 
 E' tutto, possiamo iniziare.
 
