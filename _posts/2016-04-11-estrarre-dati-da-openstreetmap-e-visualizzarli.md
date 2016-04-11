@@ -23,7 +23,7 @@ E' tutto, possiamo iniziare.
 
 Installate sul vostro computer [NodeJS](https://nodejs.org/it/). Si tratta di un framework a eventi in grado di eseguire codice Javascript, per farlo implementa il V8 JavaScript Engine (il motore di Google Chrome) e vanta una elevata performance nel compilare codice Javascript. NPM è un Package Manager per node (Node Package Manager) ovvero di un software che consente di installare applicazioni per NodeJS. Le istruzioni per installare NodeJS e NPM le trovate al [link](https://nodejs.org/it/) in italiano. NPM dovrebbe autoinstallarsi sul vostro PC in modo automatico.
 
-Installate l'applicazione [Query-Overpass](https://github.com/perliedman/query-overpass) che vi consentirà di gestire query su Openstreetmap. Overpass Turbo è un software che permette di gestire interrogazioni dei dati di Openstreetmap. E' possibile ad esempio chiedere qualcosa tipo "dimmi tutti i negozi presenti a Prato". Per installare 
+Installate l'applicazione [Query-Overpass](https://github.com/perliedman/query-overpass) che vi consente di gestire query su Openstreetmap (l'autore è lo stesso della piattaforma [UMAP](https://umap.openstreetmap.fr/it/)). Overpass Turbo è un software che permette di gestire interrogazioni dei dati di Openstreetmap. E' possibile ad esempio chiedere qualcosa tipo "dimmi tutti i negozi presenti a Prato". Per installare 
 Query-Overpass questo vi basta digitare il comando
 
 ```bash
