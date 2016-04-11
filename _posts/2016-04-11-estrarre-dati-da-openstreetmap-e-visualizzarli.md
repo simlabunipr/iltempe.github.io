@@ -11,7 +11,7 @@ Capita che tramite con un po' di amici che praticano hacking civico Andrea Borru
 
 D'altra parte tutta questa sensibilità sui dati georeferenziati di Openstreetmap ha un suo senso se si divulgano anche metodi per riusare questi dati. Ricordo che Openstreetmap concede il riuso completo dei suoi dati anche per fini commerciali a patto che si rispettino le indicazioni nella pagina di [copyright](https://www.openstreetmap.org/copyright).
 
-Sicuramente consultando le community troverete molti modi, qui stasera ve ne illustro uno per elaborare una richiesta alla piattaforma Openstreetmap, salvare i risultati in un file e visualizzare in modo rapido i risultati archiviando questi dati su un vostro repository [Github](http://www.github.com). Questo metodo può essere molto utile se si vuole repidamente visualizzare certi dati su mappa, ma soprattutto se periodicamente si vuole aggiornare questi dati nel vostro repository, così da assicurare un "dato sempre fresco".
+Sicuramente consultando le community troverete molti modi, qui stasera ve ne illustro uno per elaborare una richiesta alla piattaforma Openstreetmap, salvare i risultati in un file e visualizzare in modo rapido i risultati archiviando questi dati su un vostro repository [Github](http://www.github.com). Questo metodo può essere molto utile se si vuole repidamente visualizzare certi dati su mappa, ma soprattutto se volete realizzare una applicazione che periodicamente voglia aggiornare questi dati in un vostro repository, così da assicurare un "dato sempre fresco".
 
 Occorrente
 - Account Github (è gratuito);
