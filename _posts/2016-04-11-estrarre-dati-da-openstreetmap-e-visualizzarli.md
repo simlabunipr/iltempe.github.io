@@ -31,17 +31,17 @@ $ npm install -g query-overpass
 
 L'utilità di Query-Overpass è che potete chiamarla direttamente a riga di comando per cui a questo punto potete interrogare Openstreetmap con una qualunque richiesta che usi le query sui TAG Openstreetmap.
 
-> Per creare una query vi consiglio di recarvi sul sito [Overpass Turbo](https://overpass-turbo.eu/) ed usare il Wizard specie se la vostra richiesta è semplice. Supponiamo di voler cercare i negozi di Prato: nel wizard digitate "shop in Prato" dove shop è il [tag ufficiale](http://wiki.openstreetmap.org/wiki/Key:shop) Openstreetmap per ricercare negozi.
+Per creare una query vi consiglio di recarvi sul sito [Overpass Turbo](https://overpass-turbo.eu/) ed usare il Wizard specie se la vostra richiesta è semplice. Supponiamo di voler cercare i negozi di Prato: nel wizard digitate "shop in Prato" dove shop è il [tag ufficiale](http://wiki.openstreetmap.org/wiki/Key:shop) Openstreetmap per ricercare negozi.
 
-> Esportate la query che avete creato facendo click su Esporta->Query->Compatta e copiate la stringa che rappresenta la query. Nel caso specifico avrete questa stringa
+Esportate la query che avete creato facendo click su Esporta->Query->Compatta e copiate la stringa che rappresenta la query. Nel caso specifico avrete questa stringa
 
 ```bash
 [out:json][timeout:25];area(3600280245)->.searchArea;(node["shop"](area.searchArea);way["shop"](area.searchArea);relation["shop"](area.searchArea););out body;>;out skel qt;
 ```
-> A questo punto componiamo lo script che cerca i negozi su openstreetmap, salva i dati georiferiti in un file e successivamente facciamone un upload in un repository su Github. 
+A questo punto componiamo lo script che cerca i negozi su openstreetmap, salva i dati georiferiti in un file e successivamente facciamone un upload in un repository su Github. 
 
->>Create un file denominato negozi.json in un vostro repository Github.
->>Componete sul vostro computer uno script upload.sh come questo (per fare l'upload del file). Per fare questo ho usato [questo tutorial](https://medium.com/mai-piu-senza/pubblicare-e-aggiornare-file-su-github-tramite-curl-5253cb139b86#.gx7rfu9p6) di Andrea Borruso.
+>Create un file denominato negozi.json in un vostro repository Github.
+>Componete sul vostro computer uno script upload.sh come questo (per fare l'upload del file). Per fare questo ho usato [questo tutorial](https://medium.com/mai-piu-senza/pubblicare-e-aggiornare-file-su-github-tramite-curl-5253cb139b86#.gx7rfu9p6) di Andrea Borruso.
 
 ```bash
 # update a file to github repo
@@ -52,7 +52,7 @@ https://api.github.com/repos/iltempe/opendataprato/contents/$1
 
 ```
 
->>Componete sul vostro computer uno script osm.sh come questo
+>Componete sul vostro computer uno script osm.sh come questo
 
 ```bash
 #negozi
@@ -62,8 +62,5 @@ echo '[out:json][timeout:25];area(3600280245)->.searchArea;(node["shop"](area.se
 
 ```
 
-Fatto! Se aprite il file negozi.geojson su github potrete visualizzarlo come dati su una mappa! 
-
-
-
+Fatto! Se aprite il file [negozi.geojson](https://github.com/iltempe/opendataprato/blob/master/negozi.geojson) su Github potrete visualizzarlo come dati su una mappa! 
 
