@@ -67,6 +67,3 @@ echo '[out:json][timeout:25];area(3600280245)->.searchArea;(node["shop"](area.se
 Fatto! Se aprite il file [negozi.geojson](https://github.com/iltempe/opendataprato/blob/master/negozi.geojson) su Github potrete visualizzarlo come dati su una mappa! 
 
 N.B. Se eseguite questo script periodicamente aggiornerete il file su Github con i dati aggiornati di Openstreetmap.
-
-
-
