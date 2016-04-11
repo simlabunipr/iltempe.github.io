@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Estrarre dati da Openstreetmap e visualizzarli su Github"
-date:   2016-04-11 20:11:25
+date:   2016-04-11 10:10:25
 categories: blog
-tags: blog
+tags: featured
 image: /assets/article_images/2016-04-11-estrarre-dati-da-openstreetmap-e-visualizzarli/photo.jpg
 ---
 
@@ -32,7 +32,7 @@ $ npm install -g query-overpass
 
 L'utilità di Query-Overpass è che potete chiamarla direttamente a riga di comando per cui a questo punto potete interrogare Openstreetmap con una qualunque richiesta che usi le query sui TAG Openstreetmap.
 
-Per creare una query vi consiglio di recarvi sul sito [Overpass Turbo](https://overpass-turbo.eu/) ed usare il Wizard specie se la vostra richiesta è semplice. Supponiamo di voler cercare i negozi di Prato: nel wizard digitate "shop in Prato" dove shop è il [tag ufficiale](http://wiki.openstreetmap.org/wiki/Key:shop) Openstreetmap per ricercare negozi.
+Per creare una query vi consiglio di recarvi sul sito [Overpass Turbo](https://overpass-turbo.eu/) ed usare il Wizard specie se la vostra richiesta è semplice. Supponiamo di voler cercare i negozi di Prato: nel wizard digitate "shop in Prato" dove shop è il [tag ufficiale](http://wiki.openstreetmap.org/wiki/Key:shop) Openstreetmap per ricercare negozi. Potete studiare i vari TAG Openstreetmap e cercare quello relativo al dato che più vi interessa estrarre.
 
 Esportate la query che avete creato facendo click su Esporta->Query->Compatta e copiate la stringa che rappresenta la query. Nel caso specifico avrete questa stringa
 
