@@ -19,7 +19,7 @@ Sicuramente consultando le community troverete molti modi, qui stasera ve ne ill
 > Un computer con possibilità di eseguire comandi BASH (io uso un server con una distribuzione linux Debian, ma può andare bene un qualunque commputer connesso ad internet, potete farlo anche tramite una schedina Raspberry);
 > Un minimo di confidenza con i [tag Openstreetmap](http://wiki.openstreetmap.org/wiki/IT:Etichette);
 
-E' tutto possiamo iniziare.
+E' tutto, possiamo iniziare.
 
 Installate sul vostro computer [NodeJS](https://nodejs.org/it/). Si tratta di un framework a eventi in grado di eseguire codice Javascript, per farlo implementa il V8 JavaScript Engine (il motore di Google Chrome) e vanta una elevata performance nel compilare codice Javascript. NPM è un Package Manager per node (Node Package Manager) ovvero di un software che consente di installare applicazioni per NodeJS. Le istruzioni per installare NodeJS e NPM le trovate al [link](https://nodejs.org/it/) in italiano. NPM dovrebbe autoinstallarsi sul vostro PC in modo automatico.
 
