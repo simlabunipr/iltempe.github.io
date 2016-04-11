@@ -4,7 +4,7 @@ title:  "Estrarre dati da Openstreetmap e visualizzarli su Github"
 date:   2016-04-11 20:11:25
 categories: blog
 tags: blog
-image: /assets/article_images/2016-04-11-estrarre-dati-da-openstreetmap-e-visualizzarli/photo.jpg
+image: /assets/article_images/2016-04-11-estrarre-dati-da-openstreetmap-e-visualizzarli/photo.jpeg
 ---
 
 Capita che tramite con un po' di amici che praticano hacking civico Andrea Borruso e Matteo Fortini ci siamo chiesti come fare per estrarre in modo semplice dei dati dalla piattaforma [Openstreetmap](http://www.openstreetmap.org).
