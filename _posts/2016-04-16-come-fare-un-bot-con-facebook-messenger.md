@@ -103,7 +103,7 @@ Se impostate pulsanti per l'utente dobbiamo ricordarci di gestire la chiamata Po
     continue;
   }
 ```
-Ok. Questo è un inizio. A questo punto il vostro BOT è interrogabile da voi stessi in modo privato (che ne siete amministratori), potete renderlo pubblico sottoponendo la vostra applicazione pubblica tramite il processo di Review di Facebook, grande differenza rispetto a Telegram appunto: Facebook effettua una verifica delle vostre applicazioni prima di renderle pubbliche.
+Questo è un inizio. A questo punto il vostro BOT è interrogabile da voi stessi in modo privato (che ne siete amministratori), potete renderlo pubblico sottoponendo la vostra applicazione pubblica tramite il processo di Review di Facebook, grande differenza rispetto a Telegram appunto: Facebook deve fare una verifica delle vostre applicazioni prima di renderle pubbliche.
 
 Consiglio personale: iniziate studiando la guida ufficiale di Facebook. Per l'implementazione, io non sono partito da 0, esistono già molte soluzioni software con cui implementare il vostro webhook nel vostro linguaggio di programmazione preferito. Oltre al Javascript che è il linguaggio con cui Facebook vi guida, segnalo ad esempio [questo progetto](https://github.com/luisbebop/facebook-robot-sinatra) già pronto per il deploy in linguaggio Ruby. Io per il mio esperimento ho selezionato il linguaggio Javascript, lavorando su [questa soluzione](https://github.com/jw84/messenger-bot-tutorial) con licenza ICS. 
 Ho effettuto un fork che trovate [qui](https://github.com/iltempe/robot) fatto deploy su [Heroku](https://dashboard.heroku.com/) e "agganciato" il webhook ad una Facebook APP con Messenger.
