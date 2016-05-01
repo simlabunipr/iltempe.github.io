@@ -23,6 +23,6 @@ Ho pensato a tutte quelle persone (ne conosco davvero tantissime) che fanno cose
 
 * Ha un account Twitter [qui](https://twitter.com/territoriopen)
 
-** Il cantiere è aperto, ovviamente tutti coloro che vogliano collaborare sono ben accetti. Unitevi alle varie community, prossimamente cercheremo anche di dettagliare meglio i vari canali per poter partecipare. Vi aspetto! **
+**Il cantiere è aperto, ovviamente tutti coloro che vogliano collaborare sono ben accetti. Unitevi alle varie community, prossimamente cercheremo anche di dettagliare meglio i vari canali per poter partecipare. Vi aspetto!**
 
 ![Territori Open](/assets/article_images/2016-05-01-cosa-e-territori-open/3.png) 
