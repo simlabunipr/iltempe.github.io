@@ -97,15 +97,15 @@ Queste modifiche saranno fatte al README file solo nel tuo branch readme-edits, 
 **4. Aprire una Pull Request**
 
 Ottime modifiche! 
-Ora che tu hai modificato un file in un branch tu puoi aprire una pull request.
+Ora che hai modificato un file in un branch tu puoi aprire una pull request.
 
-Pull request sono il cuore della collaborazione con GIthub. Quando tu apri una pull request, tu proponi le tue modifiche e richiedi che qualcuno le riveda e le "tiri" e le fonda nel suo branch. Pull requests mostrano le differenze dei contenuti di entrambi i branch. Le modifiche, aggiunte e le eliminazioni sono mostrate in verde e rosso.
+Pull request sono il cuore della collaborazione con Github. Quando tu apri una pull request, proponi le tue modifiche e richiedi che qualcuno le riveda e le "tiri" e le fonda nel suo branch. Pull requests mostrano le differenze dei contenuti di entrambi i branch. Le modifiche, aggiunte e le eliminazioni sono mostrate in verde e rosso.
 
-Come tu fai un commit, tu puoi aprire una pull request e iniziare una discussione, prima che il codice sia finito.
+Come fai un commit, puoi aprire una pull request e iniziare una discussione, prima che il codice sia finito.
 
-Usando il sistema di "@" menzioni con Github nel tuo messaggio della pull request, tu puoi chiedere un feedback da una specifica persona o un team.
+Usando il sistema di "@" menzioni con Github nel tuo messaggio della pull request, puoi chiedere un feedback da una specifica persona o un team.
 
-Tu puoi anche aprire pull request nel tuo repository e fonderle da solo. E' un buon modo di imparare il flusso di gestione prima di lavorare su progetti complessi.
+Puoi anche aprire pull request nel tuo repository e fonderle da solo. E' un buon modo di imparare il flusso di gestione prima di lavorare su progetti complessi.
 
 Aprire una Pull Request per una modifica al file README
 
@@ -118,13 +118,13 @@ Seleziona il branch dove hai fatto le modifiche per compararlo con il master.
 Guarda le tue modifiche nel diff sulla pagina di Compare, assicurati che sono cosa tu vuoi sottomettere.
 ![](https://guides.github.com/activities/hello-world/diff.png)
 
-Quando tu sarai soddisfatto delle modifiche, fai click sul grande pulsante "Create Pull Request"
+Quando sarai soddisfatto delle modifiche, fai click sul grande pulsante "Create Pull Request"
 ![](https://guides.github.com/activities/hello-world/create-pr.png)
 
 Dai alla tua pull request un titolo e scrivi una breve descirzione delle tue modifiche.
 ![](https://guides.github.com/activities/hello-world/pr-form.png)
 
-Quando tu hai scritto il tuo messaggio, fai click su Create pull request!
+Quando hai scritto il tuo messaggio, fai click su Create pull request!
 
 When you’re done with your message, click Create pull request!
 
