@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Primi Passi con GIthub"
+title:  "Primi Passi con Github"
 date:   2016-05-05 10:34:25
 categories: blog
 tags: featured
