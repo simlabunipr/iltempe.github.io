@@ -156,9 +156,3 @@ Qui a cosa ti sarà utile questo tutorial:
 Dai un'occhiata al tuo profilo Github e tu vedrai un nuovo spazio di contributi!
 
 Per molti altri tutorial su Github consulta [questa pagina](https://guides.github.com/).
-
-
-
-
-
-
