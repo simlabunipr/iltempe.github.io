@@ -16,7 +16,7 @@ Github è una piattaforma di archiviazione di codice per controllo versione e co
 
 Questo tutorial ti insegna le cose essenziali per usare Github, come i repository, i branch, i commits e le Pull request. Sarai in grado di creare da solo un repository "Ciao Mondo!" ed imparare il flusso di gestione delle Pull request, un modo molto popolare di creare e revisionare il codice.
 
-Non è richiesto programmare.
+Non è richiesto saper programmare.
 
 Per completare questo tutorial, tu hai bisogno di un account Github e un accesso internet. Non hai bisogno di conoscere come programmare, usare la linea di comando o installare GIT (il software per controllare le versioni da riga di comando è integrato in Github).
 
@@ -31,7 +31,7 @@ Il tuo repository ciao-mondo può essere un posto dove memorizzare idee, risorse
 Per creare un nuovo repository
 
 - In altro a destra, dopo aver fatto il login, fai click sul + e poi seleziona New Repository.
-- Chiama il tuo repository ciao-mondo.
+- Nomina il tuo repository ciao-mondo.
 - Scrivi una breve descrizione.
 - Seleziona "Initialize this repository with a README"
 
