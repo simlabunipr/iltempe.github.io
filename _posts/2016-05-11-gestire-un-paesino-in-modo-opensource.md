@@ -4,7 +4,7 @@ title:  "Gestire un paesino in modo opensource"
 date:   2016-05-11 10:34:25
 categories: blog
 tags: featured
-image: /assets/article_images/2016-05-11-gestire-un-paesino-in-modo-opensource/1.jpeg
+image: /assets/article_images/2016-05-11-gestire-un-paesino-in-modo-opensource/1.jpg
 ---
 
 Ho già avuto modo di dirvi cosa sia [Github](www.github.com) più volte.
