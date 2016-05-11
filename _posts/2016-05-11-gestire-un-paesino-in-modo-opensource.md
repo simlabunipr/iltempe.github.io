@@ -26,7 +26,7 @@ Il senato dello stato di New York crea su Gitub il suo portale per presentare le
 
 [Ben Balter](https://twitter.com/benbalter?lang=it) mette a punto con Github un [semplicissimo modo](https://github.com/benbalter/dc-wifi-social) per chiedere ai cittadini dove si trovano locali che servano da bere e contemporaneamente che abbiano accesso ad internet. E con Github rilascia poi queste informazioni come opendata a tutti.
 
-[Andrea Borruso](https://twitter.com/aborruso?lang=it) da tempo promuove tramite Github il progetto [AlboPOP](https://github.com/aborruso/albo-pop), progetto nato per la divulgazione degli Albi Pretori nei comuni di Italia.
+[Andrea Borruso](https://twitter.com/aborruso?lang=it) da tempo promuove tramite Github il progetto [AlboPOP](https://github.com/aborruso/albo-pop), progetto nato per la divulgazione degli Albi Pretori nei comuni di Italia. Un ottimo esempio (a cui ho dato un piccolo contributo anche io e tanti tanti altri) di collaborazione a livello nazionale su un tema che riguarda i territori. Da copiare non solo sul tema, ma anche in termini di processo.
 
 Tutta la gestione dell'iniziativa civica [Code for Africa](https://codeforafrica.org/) è gestita con un'organizzazione Github.
 
