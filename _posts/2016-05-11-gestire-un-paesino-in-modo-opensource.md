@@ -24,7 +24,7 @@ Il senato dello stato di New York crea su Gitub il suo portale per presentare le
 
 ![Open Legislation](https://raw.githubusercontent.com/nysenate/OpenLegislation/master/src/main/webapp/static/img/bill-page.png)
 
-[Ben Balter](https://twitter.com/benbalter?lang=it) mette a punto con Github un [semplicissimo modo](https://github.com/benbalter/dc-wifi-social) per chiedere ai cittadini dove si trovano locali che servano da bere e contemporaneamente abbiamo accesso ad internet. E con Github rilascia queste informazioni come opendata a tutti.
+[Ben Balter](https://twitter.com/benbalter?lang=it) mette a punto con Github un [semplicissimo modo](https://github.com/benbalter/dc-wifi-social) per chiedere ai cittadini dove si trovano locali che servano da bere e contemporaneamente che abbiano accesso ad internet. E con Github rilascia poi queste informazioni come opendata a tutti.
 
 [Andrea Borruso](https://twitter.com/aborruso?lang=it) da tempo promuove tramite Github il progetto [AlboPOP](https://github.com/aborruso/albo-pop), progetto nato per la divulgazione degli Albi Pretori nei comuni di Italia.
 
