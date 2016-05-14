@@ -30,6 +30,8 @@ Il senato dello stato di New York crea su Gitub il suo portale per presentare le
 
 Tutta la gestione dell'iniziativa civica [Code for Africa](https://codeforafrica.org/) è gestita con un'organizzazione Github.
 
+La Columbia University di New York, come molte altre scuole del mondo, sono organizzate tramite [Github](https://github.com/columbia).
+
 Non sono un esperto ma non credo ci sia alcuna legge che vieti l'adozione di Github come strumento per gestire una nostra città italiana. Gestire in questo caso significherebbe svilupparla su una piattaforma di completa collaborazione che potrebbe essere una base ottima per unire forze di pubblica amministrazione e cittadini, non solo quelli che voglio accedere ed usare servizi, ma anche quelli che vogliono contribuire a crearne di nuovi.
 
 PS Se qualche città si volesse far gestire in questo modo, perchè qualcuno ha letto questo post o semplicemente ha preso spunto da quello che ho scritto, non voglio assolutamente essere citato, non mi interessa, ma perfavore segnalatemelo, mi interessa sapere se sono un pazzo scatenato o esiste qualcuno che la vede come me tanto da provare a sperimentare questo approccio di gestione della cosa pubblica. Grazie.
