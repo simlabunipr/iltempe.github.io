@@ -22,7 +22,7 @@ Ma non è finita qui.
 
 Il senato dello stato di New York crea su Gitub il suo portale per presentare le delibere ai cittadini. Si chiama [Open Legislation](http://open.nysenate.gov/legislation) e [questo](https://github.com/nysenate/OpenLegislation) è il repository. E' un portale per presentare ai cittadini le delibere, chi le promuove, dar modo di vederne lo stato di avanzamento, condividerle via social e commentarle proprio come in un blog. Tutto archiviato come sorgenti su Github e quindi riusabile in toto come progetto. Di fatto un piccolo capitale per la cosa pubblica americana.
 
-![Open Legislation](https://raw.githubusercontent.com/nysenate/OpenLegislation/master/src/main/webapp/static/img/bill-page.png)
+![Open Legislation](https://cdn-images-1.medium.com/max/1600/1*_a3q4e8WQ0e4Q5-fYji_fg.png)
 
 [Ben Balter](https://twitter.com/benbalter?lang=it) mette a punto con Github un [semplicissimo modo](https://github.com/benbalter/dc-wifi-social) per chiedere ai cittadini dove si trovano locali che servano da bere e contemporaneamente che abbiano accesso ad internet. E con Github rilascia poi queste informazioni come opendata a tutti.
 
