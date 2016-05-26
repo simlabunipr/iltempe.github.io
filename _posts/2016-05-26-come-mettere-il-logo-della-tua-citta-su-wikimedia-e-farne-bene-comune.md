@@ -4,7 +4,7 @@ title:  "Come mettere il logo della tua città su Wikimedia per farne un bene co
 date:   2016-05-26 10:34:25
 categories: blog
 tags: featured
-image: /assets/article_images/2016-05-26-come-mettere-il-logo-della-tua-citt̀a-su-wikimedia-e-farne-bene-comune/0.jpg
+image: /assets/article_images/2016-05-26-come-mettere-il-logo-della-tua-città-su-wikimedia-e-farne-bene-comune/0.jpg
 ---
 
 Ieri a proposito del nuovo logo brand di Prato mi sono permesso di postare su Facebook quanto segue.
@@ -16,14 +16,14 @@ Questo ovviamente implica che chi lo ha ideato e realizzato (e quindi lo detiene
 
 In particolare create un account su Wikimedia Commons e procedete come segue.
 - Selezionate l'immagine che volete caricare
-![](/assets/article_images/2016-05-26-come-mettere-il-logo-della-tua-citt̀a-su-wikimedia-e-farne-bene-comune/1.png) 
+![](/assets/article_images/2016-05-26-come-mettere-il-logo-della-tua-città-su-wikimedia-e-farne-bene-comune/1.png) 
 
 - Nello step di attribuzione della licenza fate click su Usa licenza diversa e successivamente selezionate Dominio Pubblico.
-![](/assets/article_images/2016-05-26-come-mettere-il-logo-della-tua-citt̀a-su-wikimedia-e-farne-bene-comune/2.png) 
-![](/assets/article_images/2016-05-26-come-mettere-il-logo-della-tua-citt̀a-su-wikimedia-e-farne-bene-comune/3.png) 
+![](/assets/article_images/2016-05-26-come-mettere-il-logo-della-tua-città-su-wikimedia-e-farne-bene-comune/2.png) 
+![](/assets/article_images/2016-05-26-come-mettere-il-logo-della-tua-città-su-wikimedia-e-farne-bene-comune/3.png) 
 
 - Descrivete la vostra immagine con le informazioni richieste: descrizone, titolo, data di pubblicazione, categorie.
-![](/assets/article_images/2016-05-26-come-mettere-il-logo-della-tua-citt̀a-su-wikimedia-e-farne-bene-comune/4.png) 
+![](/assets/article_images/2016-05-26-come-mettere-il-logo-della-tua-città-su-wikimedia-e-farne-bene-comune/4.png) 
 
 
 Fatto. Ed ora l'immagine è DI TUTTI SENZA VINCOLI. 
