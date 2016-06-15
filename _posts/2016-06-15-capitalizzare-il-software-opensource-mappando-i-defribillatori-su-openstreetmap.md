@@ -32,7 +32,7 @@ Per chi vuol creare un servizio simile può partire da questi sorgenti su [Githu
 
 Per mappare un punto defibrillatore su Openstreetmap è possibile farlo registrandosi su Openstreetmap.
 
-- Dispositivo IOS: usando la APP Go Map! e Mappando un punto con tag Emrgency di valore Defibrillator.
-- Dispositivo Android: OSM Tracker e Vespucci, idem come sopra
+- Dispositivo IOS: usando la APP "Go Map!" e Mappando un punto con tag Emrgency di valore Defibrillator.
+- Dispositivo Android: Usare APP come "Vespucci", idem come sopra
 - PC: andando sul sito [Openstreetmap](wwww.openstreetmap.org), imparando a mappare un [punto](http://wiki.openstreetmap.org/wiki/IT:Elementi) e taggarlo con il tag "emergency" con valore "defibrillator".
 
