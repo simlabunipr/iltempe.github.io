@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Capitalizzare il software opensource mappandi i defribillatori su Openstreetmap"
+title:  "Capitalizzare il software opensource mappando i defibrillatori su Openstreetmap"
 date:   2016-06-15 10:34:25
 categories: blog
 tags: featured
