@@ -20,7 +20,7 @@ Nel momento in cui riceve la vostra posizione il robot interroga il database di 
 
 Tutto tramite opendata di Openstreetmap per cui aggiungendo dati taggati come defibrillatori alla mappa di Openstreetmap permettete ai luoghi di essere visti.
 
-[!il bot per i defibrillatori](/assets/article_images/2016-06-15-capitalizzare-il-software-opensource-mappando-i-defribillatori-su-openstreetmap/1.png)
+![il bot per i defibrillatori](/assets/article_images/2016-06-15-capitalizzare-il-software-opensource-mappando-i-defribillatori-su-openstreetmap/1.png)
 
 L’applicazione ricorda molto il principio dei social come Foursquare, ma la base dei dati in questo caso è completamente aperta e più viene aumentata dai mappatori Openstreetmap più il servizio diventa efficiente.
 
