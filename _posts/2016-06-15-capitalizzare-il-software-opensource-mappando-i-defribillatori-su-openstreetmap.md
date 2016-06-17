@@ -36,3 +36,7 @@ Per mappare un punto defibrillatore su Openstreetmap è possibile farlo registra
 - Dispositivo Android: Usare APP come "Vespucci", idem come sopra
 - PC: andando sul sito [Openstreetmap](wwww.openstreetmap.org), imparando a mappare un [punto](http://wiki.openstreetmap.org/wiki/IT:Elementi) e taggarlo con il tag "emergency" con valore "defibrillator".
 
+Una nota ulteriore: per identificare bene il defibrillatore nel momento in cui mappate il punto relativo al defibrillatore nel tag "name" inserite il nome del luogo in cui il defibrillatore si trova (scuola, ospedale...) e se lo sapete anche l'indirizzo. In questo modo sulla mappa risulterà un dato più chiaro a chi localizza l'informazione.
+
+Grazie!
+
