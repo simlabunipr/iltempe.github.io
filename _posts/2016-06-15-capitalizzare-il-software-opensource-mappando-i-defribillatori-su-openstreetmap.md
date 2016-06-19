@@ -39,7 +39,7 @@ Per mappare un punto defibrillatore su Openstreetmap è possibile farlo registra
 Una nota ulteriore: per identificare bene il defibrillatore nel momento in cui mappate il punto relativo al defibrillatore nel tag "name" inserite il nome del luogo in cui il defibrillatore si trova (scuola, ospedale...) e se lo sapete anche l'indirizzo. In questo modo sulla mappa risulterà un dato più chiaro a chi localizza l'informazione. Qui sotto un esempio delle schermate da usare con Go Map su Iphone.
 
 ![](/assets/article_images/2016-06-15-capitalizzare-il-software-opensource-mappando-i-defribillatori-su-openstreetmap/2.jpg)
-![](/assets/article_images/2016-06-15-capitalizzare-il-software-opensource-mappando-i-defribillatori-su-openstreetmap/3.jpg)
-![](/assets/article_images/2016-06-15-capitalizzare-il-software-opensource-mappando-i-defribillatori-su-openstreetmap/4.jpg)
+![localizzazione del punto in cui si trova il defibrillatore](/assets/article_images/2016-06-15-capitalizzare-il-software-opensource-mappando-i-defribillatori-su-openstreetmap/3.jpg)
+![inserimento dei tag](/assets/article_images/2016-06-15-capitalizzare-il-software-opensource-mappando-i-defribillatori-su-openstreetmap/4.jpg)
 Grazie!
 
