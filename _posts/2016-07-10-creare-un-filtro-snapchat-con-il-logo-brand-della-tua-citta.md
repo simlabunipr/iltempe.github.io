@@ -19,7 +19,7 @@ Sto preparando una lista di risposte, anche sulla base di come questa applicazio
 
 Dal momento che Prato ancora non un logo rilasciato in formato "open content" uso un logo creato da me, giusto per fare un esempio, basato su un grande motto social in voga tra i pratesi che tengono alla loro città "Prato è Ganza" (l'ho un po' inglesizzato visto che Snapchat è molto in voga fuori dall'Italia).
 
-![il vostro logo](/assets/article_images/2016-07-10-creare-un-filtro-snapchat-con-il-logo-brand-della-tua-citta/0.png)
+![il logo Prato is Ganza](/assets/article_images/2016-07-10-creare-un-filtro-snapchat-con-il-logo-brand-della-tua-citta/1.png)
 
 La funzione di Snapchat che useremo è la creazione dei GeoFiltri ossia dei filtri basati sulla posizione geografica. Questa funzione vi consente di abilitare dei filtri grafici da applicare ai vostri video su Snapchat basandovi sulla posizione geografica in cui vi trovate e quindi di fare un vostro "snap" con un filtro relativo al luogo in cui vi trovate!
 
