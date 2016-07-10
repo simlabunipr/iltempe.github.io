@@ -19,7 +19,7 @@ Sto preparando una lista di risposte, anche sulla base di come questa applicazio
 
 Dal momento che Prato ancora non un logo rilasciato in formato "open content" uso un logo creato da me, giusto per fare un esempio, basato su un grande motto social in voga tra i pratesi che tengono alla loro città "Prato è Ganza" (l'ho un po' inglesizzato visto che Snapchat è molto in voga fuori dall'Italia).
 
-![il logo Prato is Ganza](/assets/article_images/2016-07-10-creare-un-filtro-snapchat-con-il-logo-brand-della-tua-citta/1.png)
+![il logo Prato is Ganza](/assets/article_images/2016-07-10-creare-un-filtro-snapchat-con-il-logo-brand-della-tua-citta/4.jpg)
 
 La funzione di Snapchat che useremo è la creazione dei GeoFiltri ossia dei filtri basati sulla posizione geografica. Questa funzione vi consente di abilitare dei filtri grafici da applicare ai vostri video su Snapchat basandovi sulla posizione geografica in cui vi trovate e quindi di fare un vostro "snap" con un filtro relativo al luogo in cui vi trovate!
 
@@ -35,7 +35,7 @@ Fatto! Semplicissimo ed utilissimo per chi voglia iniziare a pubblicizzare l'imm
 
 Una volta inseriti la vostra mail, il nome e una nota in cui specificate perhè questo filtro è importante sottomettete tutto. Se il vostro filtro risponde alla policu snapchat riceverete una mail che vi conferma l'avvenuta sottomissione del filtro e vi rimanda all'accettazione da parte di Snapchat.
 
-Non appena il filtro sarà approvato sarete avvisati e non resterà che provarlo! Che aspettate allora?
+Non appena il filtro sarà approvato sarete avvisati e non resterà che provarlo girando i vostri video Snapchat e sovrapponendo questo filtro! Che aspettate allora?
 Prato is Ganza!
 
 PS Se nel frattempo l'amministrazione comunale rilasciasse un "brand aperto" in termini di licenza, inserendo il brand di Prato ad esempio Wikimedia Commons capite bene che cosa si può fare con quel brand ottenendone diffusione massima (Snapchat è molto usato in America... Fate Vobis).
