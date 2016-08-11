@@ -34,7 +34,7 @@ Tramite la funzione di archiviazione siti web [Firefox](http://webscripts.softpe
 Qui sotto ad esempio riporto il libro de "Il sacco di Prato e il ritorno de'Medici in Firenze nel MDXII
 ", pubblicazione del 1880 di Cesare Guasti. Scannerizzato per noi dalla Bibloteca di Toronto!
 
-<iframe  width="100%" height="430px" frameborder="0" src="https://archive.org/embed/ilsaccodipratoei01guasuoft"></iframe>
+<iframe src="https://archive.org/stream/Saggi_Agricolturaedizione_1810/Landeschi_Saggi_di_Agricoltura_(edizione_1810)?ui=embed#mode/2up" width="100%" height="430px" frameborder="0"></iframe>
 
 Mi permetto alcuni consigli a chi legge:
 
