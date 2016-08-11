@@ -31,13 +31,11 @@ Alcune note tecniche doverose dopo aver provato lo strumento:
 E' [notizia](http://www.smartworld.it/internet/giochi-amiga-online.html) di questi giorni che l'archivio è stato usato per rilasciare i videogiochi storici di Amiga per gli amanti dell'Arcade.
 Tramite la funzione di archiviazione siti web [Firefox](http://webscripts.softpedia.com/blog/firefox-experimental-feature-can-replace-404-pages-with-internet-archive-copies-507039.shtml) consente di richiamare l'accesso ad una pagina web non più esistente mostrandovi una versione più vecchia della pagina stessa.
 
-Qui sotto ad esempio riporto il libro de "Il sacco di Prato e il ritorno de'Medici in Firenze nel MDXII
-", pubblicazione del 1880 di Cesare Guasti. Scannerizzato per noi dalla Bibloteca di Toronto!
+Qui sotto ad esempio riporto il [libro](https://archive.org/details/ilsaccodipratoei01guasuoft) de "Il sacco di Prato e il ritorno de'Medici in Firenze nel MDXII
+", pubblicazione del 1880 di Cesare Guasti. Scannerizzato per noi dalla [Università di Toronto](https://archive.org/details/robarts)!
 
-<iframe src='https://archive.org/stream/ilsaccodipratoei01guasuoft?ui=embed#mode/1up' width='480px' height='430px' frameborder='0' ></iframe>
+<iframe src='https://archive.org/stream/ilsaccodipratoei01guasuoft?ui=embed#mode/2up' width='480px' height='430px' frameborder='0' ></iframe>
 
-
-https://archive.org/details/ilsaccodipratoei01guasuoft
 Mi permetto alcuni consigli a chi legge:
 
 * Se avete materiale cartaceo di pubblica utilità e non volete perderlo questo è il luogo giusto dove archiviarlo. Vale per le bibloteche, per gli archivi storici comunali, per le associazioni.
