@@ -16,11 +16,11 @@ Internet Archive è una biblioteca digitale non profit che ha lo scopo dichiarat
 In aggiunta alla sua funzione primaria di archiviazione, Internet Archive è un'organizzazione attivista che si batte per una Internet libera ed aperta ed è un'associazione non profit riconosciuta ufficialmente negli Stati Uniti d'America. 
 Secondo il sito web di Internet Archive "molte società danno importanza alla preservazione di artefatti riguardanti la loro eredità culturale. Senza questi artefatti la civiltà non ha memoria e non ha modo di imparare dai propri successi e dai propri fallimenti. La nostra cultura ora produce sempre più artefatti in forma digitale. La missione di Internet Archive è di aiutare a preservare questi artefatti e creare una biblioteca digitale su Internet per ricercatori, storici e studiosi".
 
-Capite bene che l'obiettivo è molto ambizioso. In genere questo tipo di progetti rischiano di trovare poco riscontro nel mondo, se non che, essendo l'organizzazione riconosciuta ufficialmente (negli USA) attualmente consta di quantità di artefatti incredibili. La vastità di questa bibloteca è eccezionale.
+Capite bene che l'obiettivo è molto ambizioso. In genere questo tipo di progetti rischiano di trovare poco riscontro nel mondo, se non che, essendo l'organizzazione, riconosciuta ufficialmente negli USA da molto tempo, attualmente consta di quantità di artefatti incredibile. La vastità di questa bibloteca è eccezionale.
 
 Alcune note tecniche doverose dopo aver provato lo strumento:
 
-* Se avete un'organizzazione o siete un privato che vuole condividere materiale potete farlo registrandovi gratuitamente. L'accesso alle risorse è invece libero e consentito senza registrazione.
+* Se avete un'organizzazione o siete un privato che vuole condividere materiale potete farlo registrandovi gratuitamente. L'accesso alle risorse è invece libero e consentito senza registrazione. Ovviamente siete responsabili personalmente di quanto pubblicate, il che significa che prima di pubblicare materiale dovere assicurarvi di poterlo fare e di non infrangere il copyright.
 * Si può effettuare l'upload di libri scannerizzati. La piattaforma si preoccupa di visualizzarlo come libro da sfogliare e vi da la possibilità di ricondividere quanto acquisito.
 * E' possibile "archiviare link web" il che significa che la piattaforma consente tenere memoria di siti internet e della loro evoluzione nel tempo (il che è utilissimo nel caso vogliate fare ricerche di come il web evolve o vogliate recuperare pagine web andate perse).
 * Esiste una funzione che vi da la possibilità di estrarre e condividere il formato OCR testo una volta scannerizzato i i libri.
