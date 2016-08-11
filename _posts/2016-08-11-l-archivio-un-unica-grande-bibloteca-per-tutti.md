@@ -45,7 +45,7 @@ Mi permetto alcuni consigli a chi legge:
 
 Mi fermo qui per oggi. Fate un giro in "archivio" son sicuro vi piacerà!
 
-[](/assets/article_images/2016-08-11-l-archivio-un-unica-grande-bibloteca-per-tutti/1.jpg)
+![](/assets/article_images/2016-08-11-l-archivio-un-unica-grande-bibloteca-per-tutti/1.jpg)
 
 
 
