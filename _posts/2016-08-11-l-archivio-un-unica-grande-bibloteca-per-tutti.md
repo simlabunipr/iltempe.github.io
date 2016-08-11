@@ -10,7 +10,8 @@ image: /assets/article_images/2016-08-11-l-archivio-un-unica-grande-bibloteca-pe
 Scopro, grazie a [questo post](http://osd.tools/2016/07/13/Landeschi-agricoltura.html) di [Luca Corsato](https://twitter.com/lucacorsato), che esiste [Internet Archive](https://archive.org/), una bibloteca su internet.
 "E cosa c'è di così strano? Un'altro luogo dove archiviare libri?" Diranno i miei giovani lettori... E invece no. 
 
-Citando brevemente da [Wikipedia](https://it.wikipedia.org/wiki/Internet_Archive)
+Citando brevemente da [Wikipedia](https://it.wikipedia.org/wiki/Internet_Archive):
+
 Internet Archive è una biblioteca digitale non profit che ha lo scopo dichiarato di consentire un "accesso universale alla conoscenza". Essa offre uno spazio digitale permanente per l'accesso a collezioni di materiale digitale che include, tra l'altro, siti web, audio, immagini in movimento (video) e libri. Internet Archive è stato fondato da Brewster Kahle nel 1996 e fa parte della IIPC (International Internet Preservation Consortium). 
 In aggiunta alla sua funzione primaria di archiviazione, Internet Archive è un'organizzazione attivista che si batte per una Internet libera ed aperta ed è un'associazione non profit riconosciuta ufficialmente negli Stati Uniti d'America. 
 Secondo il sito web di Internet Archive "molte società danno importanza alla preservazione di artefatti riguardanti la loro eredità culturale. Senza questi artefatti la civiltà non ha memoria e non ha modo di imparare dai propri successi e dai propri fallimenti. La nostra cultura ora produce sempre più artefatti in forma digitale. La missione di Internet Archive è di aiutare a preservare questi artefatti e creare una biblioteca digitale su Internet per ricercatori, storici e studiosi".
@@ -33,7 +34,7 @@ Tramite la funzione di archiviazione siti web [Firefox](http://webscripts.softpe
 Qui sotto ad esempio riporto il libro de "Il sacco di Prato e il ritorno de'Medici in Firenze nel MDXII
 ", pubblicazione del 1880 di Cesare Guasti. Scannerizzato per noi dalla Bibloteca di Toronto!
 
-<iframe src="https://archive.org/stream/ilsaccodipratoei01guasuoft?ui=embed#mode/2up" width="480" height="430" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/ilsaccodipratoei01guasuoft" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 Mi permetto alcuni consigli a chi legge:
@@ -45,7 +46,7 @@ Mi permetto alcuni consigli a chi legge:
 
 Mi fermo qui per oggi. Fate un giro in "archivio" son sicuro vi piacerà!
 
-[](assets/article_images/2016-08-11-l-archivio-un-unica-grande-bibloteca-per-tutti/1.jpg)
+[](/assets/article_images/2016-08-11-l-archivio-un-unica-grande-bibloteca-per-tutti/1.jpg)
 
 
 
