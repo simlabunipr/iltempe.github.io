@@ -20,7 +20,7 @@ Capite bene che l'obiettivo è molto ambizioso. In genere questo tipo di progett
 
 Alcune note tecniche doverose dopo aver provato lo strumento:
 
-* Se avete un'organizzazione o siete un privato che vuole condividere materiale potete farlo registrandovi gratuitamente. L'accesso alle risorse è invece libero e consentito senza registrazione. Ovviamente siete responsabili personalmente di quanto pubblicate, il che significa che prima di pubblicare materiale dovere assicurarvi di poterlo fare e di non infrangere il copyright.
+* Se avete un'organizzazione o siete un privato che vuole condividere materiale potete farlo registrandovi gratuitamente. Ovviamente siete responsabili personalmente di quanto pubblicate, il che significa che prima di pubblicare materiale dovere assicurarvi di poterlo fare e di non infrangere il copyright.
 * Si può effettuare l'upload di libri scannerizzati. La piattaforma si preoccupa di visualizzarlo come libro da sfogliare e vi da la possibilità di ricondividere quanto acquisito.
 * E' possibile "archiviare link web" il che significa che la piattaforma consente tenere memoria di siti internet e della loro evoluzione nel tempo (il che è utilissimo nel caso vogliate fare ricerche di come il web evolve o vogliate recuperare pagine web andate perse).
 * Esiste una funzione che vi da la possibilità di estrarre e condividere il formato OCR testo una volta scannerizzato i i libri.
@@ -28,6 +28,7 @@ Alcune note tecniche doverose dopo aver provato lo strumento:
 * Ogni media acquisito può essere condiviso tramite codice HTML su qualunque sito web o qualunque social media.
 * Potete creare collezioni di materiale, in modo da creare dei sottoarchivi condivisibili.
 
+Ci sono musei che hanno deciso di archiviare in forma digitale le loro opere per divulgarle il più possibile come ad esempio è stato fatto dal [Museo di Brooklyn](https://archive.org/details/brooklynmuseum).
 E' [notizia](http://www.smartworld.it/internet/giochi-amiga-online.html) di questi giorni che l'archivio è stato usato per rilasciare i videogiochi storici di Amiga per gli amanti dell'Arcade.
 Tramite la funzione di archiviazione siti web [Firefox](http://webscripts.softpedia.com/blog/firefox-experimental-feature-can-replace-404-pages-with-internet-archive-copies-507039.shtml) consente di richiamare l'accesso ad una pagina web non più esistente mostrandovi una versione più vecchia della pagina stessa.
 
