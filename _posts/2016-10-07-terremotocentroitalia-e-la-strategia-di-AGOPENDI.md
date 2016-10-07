@@ -17,7 +17,7 @@ L'emergenza e il post-emergenza creano in modo spontaneo su internet la presenza
 
 Detto questo, vorrei provare a spiegare in modo semplice un principio base di TerremotoCentroItalia per cominciare a dare delle indicazioni sulla "riusabilità" del progetto che è completamente opensource e abbastanza ben documentato su [Github](https://github.com/emergenzeHack/terremotocentro), ma vorrei anche che se ne capisse il processo e l'approccio che ci sta dietro. Che poi, secondo me, conta molto di più che riusare lo strumento in sè.
 
-TerremotoCentroItalia applica l'approccio dell' **AGOPENDI : Aggregate,Open and Distribute**. Cioè? detto in italiano:
+TerremotoCentroItalia applica l'approccio dell' **AGOPENDI: AGgregate,OPEN and DIstribute**. Cioè? detto in italiano:
 
   - **Aggrega i contenuti**. I contenuti di per sè non sono strutturati e provengono da varie fonti (social media, mail, contatti etc...). La piattaforma li aggrega tramite un gran lavoro manuale di moderazione e di strutturazione in modo tale da dare loro una struttura "standard" e farne dei dati effettivamente riusabili;
   - **Apre i dati**.Tutti i dati ricavati sono accessibili. Dovendo aggregare e strutturare, aprire i dati consente sviluppo di ulteriore informazione e servizio. E' valore che si libera in modo piuttosto agevole. Non vi fate ingannare da chi dice che questo è compito esclusivamente delle pubbliche amministrazioni. Non è vero. Consentire l'accesso ai dati è qualcosa che può essere fatto da tutti ed è un grande atto di partecipazione civica perchè è condivisione di sapere "alla sua radice" ovvero nei dati. Si tratta di scegliere una piattaforma adeguata a farlo e definire una licenza di riuso da associare ai dati stessi.
