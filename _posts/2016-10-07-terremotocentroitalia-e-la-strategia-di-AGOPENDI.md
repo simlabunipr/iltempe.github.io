@@ -13,9 +13,9 @@ Da ormai più di un mese abbiamo messo "nel mare di internet" una barchetta che 
 
 Il progetto si basa su un concetto fondamentale che è quello che il racconto di una situazione di "crisi" può essere fatto da tutti noi. Non esiste qualcuno "più preposto" di altri a fornire un dato o un'informazione. Chiunque può farlo se opportunamente "educato ed instradato" sul corretto canale.
 
-L'emergenza e il post-emergenza in modo spontaneo crea su internet molte informazioni. Casomai il problema diventa filtrarle a dovere e rimuovere il "rumore di fondo" cosi da usare quelle effettivamente attendibili ed utili. Come si fa? Normalmente chi diffonde online è rintracciabile. Si può contattare. Si può verificare se può argomentare e spiegare. Sui social network discutere per capire in questi casi è essenziale.
+L'emergenza e il post-emergenza creano in modo spontaneo su internet la presenza di molte informazioni. Il problema diventa filtrarle a dovere e rimuovere il "rumore di fondo" cosi da usare quelle effettivamente attendibili ed utili. Come si fa? Normalmente chi diffonde contenuti online è rintracciabile. Si può contattare. Si può verificare se può argomentare e spiegare. Sui social network discutere per capire in questi casi è essenziale.
 
-Detto questo, vorrei provare a dire quello che fa TerremotoCentroItalia per cominciare a dare delle indicazioni sulla "riusabilità" del progetto che è completamente opensource e abbastanza ben documentato su [Github](https://github.com/emergenzeHack/terremotocentro), ma vorrei che se ne capisse il processo e l'approccio che ci sta dietro. Che secondo me conta molto di più che riusare lo strumento in sè.
+Detto questo, vorrei provare a spiegare in modo semplice un principio base di TerremotoCentroItalia per cominciare a dare delle indicazioni sulla "riusabilità" del progetto che è completamente opensource e abbastanza ben documentato su [Github](https://github.com/emergenzeHack/terremotocentro), ma vorrei anche che se ne capisse il processo e l'approccio che ci sta dietro. Che poi, secondo me, conta molto di più che riusare lo strumento in sè.
 
 TerremotoCentroItalia applica l'approccio dell' **AGOPENDI : Aggregate,Open and Distribute**. Cioè? detto in italiano:
 
