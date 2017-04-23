@@ -3,7 +3,7 @@ layout: post
 title:  "Primi Passi con Github"
 date:   2016-05-05 10:34:25
 categories: blog
-tags: featured
+tags: blog
 image: /assets/article_images/2016-05-05-primi-passi-con-github/1.jpeg
 ---
 
@@ -77,7 +77,7 @@ Per creare un nuovo branch
 Ora hai due branch. master e readme-edits. Essi sembrano proprio lo stesso ma non lo saranno per molto! prossimamente noi aggiungeremo modifiche al nuovo branch.
 
 **3. Fai e committa modifiche**
-Bravo! 
+Bravo!
 Adesso, tu sei sulla vista del codce per il branch readme-edits, che è una copia della master. Facciamo delle modifiche.
 
 Su Github, le modifiche salvate sono chiamate commits. Ogni commit ha un messaggio associato di commit, che è una descrizione che spiega perchè una particolare modifica è stata fatta. I messaggi di commit tengono traccia della storia delle modifiche, cosi gli altri contributori possono capire cosa hai fatto è perchè.
@@ -86,7 +86,7 @@ Fare e committare modifiche
 
 - Fai click sul file README.md.
 - Fai click sull'icona della matita in alto a destra della vista dei file per fare una modifica.
-- Nell'editor scrivo un po' di cose su di te. 
+- Nell'editor scrivo un po' di cose su di te.
 - Scrivi un messaggio di commit che descrive la tua modifica
 - Fai click sul pulsante Commit changes
 
@@ -96,7 +96,7 @@ Queste modifiche saranno fatte al README file solo nel tuo branch readme-edits, 
 
 **4. Aprire una Pull Request**
 
-Ottime modifiche! 
+Ottime modifiche!
 Ora che hai modificato un file in un branch tu puoi aprire una pull request.
 
 Pull request sono il cuore della collaborazione con Github. Quando tu apri una pull request, proponi le tue modifiche e richiedi che qualcuno le riveda e le "tiri" e le fonda nel suo branch. Pull requests mostrano le differenze dei contenuti di entrambi i branch. Le modifiche, aggiunte e le eliminazioni sono mostrate in verde e rosso.
@@ -109,7 +109,7 @@ Puoi anche aprire pull request nel tuo repository e fonderle da solo. E' un buon
 
 Aprire una Pull Request per una modifica al file README
 
-Fai Click sul tab Pull Request tab, quindi dalla pagina Pull Request, fai click sul bottone verde New pull request.	
+Fai Click sul tab Pull Request tab, quindi dalla pagina Pull Request, fai click sul bottone verde New pull request.
 ![](https://guides.github.com/activities/hello-world/pr-tab.gif)
 
 Seleziona il branch dove hai fatto le modifiche per compararlo con il master.
@@ -144,7 +144,7 @@ In questo step finale, è tempo di portare le tue modifiche fondendole dal tuo b
 
 Evviva!
 
-Completando questo tutororial, hai imparato a creare un progetto e fare una pull request su Github! 
+Completando questo tutororial, hai imparato a creare un progetto e fare una pull request su Github!
 
 Qui a cosa ti sarà utile questo tutorial:
 

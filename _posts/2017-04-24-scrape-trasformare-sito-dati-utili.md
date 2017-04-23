@@ -3,7 +3,7 @@ layout: post
 title:  "Gli archivi delle Notizie del Comune di Prato: come ricavare dati aperti da un sito web"
 date:   2016-04-24 10:34:25
 categories: blog
-tags: featured
+tags: blog
 image: /assets/article_images/2017-04-24-scrape-trasformare-sito-dati-utili/1.jpg
 ---
 

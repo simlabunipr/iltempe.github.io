@@ -3,7 +3,7 @@ layout: post
 title:  "Cosa è Territori Open?"
 date:   2016-05-01 10:34:25
 categories: blog
-tags: featured
+tags: blog
 image: /assets/article_images/2016-05-01-cosa-e-territori-open/1.jpg
 ---
 
@@ -25,4 +25,4 @@ Ho pensato a tutte quelle persone (ne conosco davvero tantissime) che fanno cose
 
 **Il cantiere è aperto, ovviamente tutti coloro che vogliano collaborare sono ben accetti. Unitevi alle varie community, prossimamente cercheremo anche di dettagliare meglio i vari canali per poter partecipare. Vi aspetto!**
 
-![Territori Open](/assets/article_images/2016-05-01-cosa-e-territori-open/3.png) 
+![Territori Open](/assets/article_images/2016-05-01-cosa-e-territori-open/3.png)

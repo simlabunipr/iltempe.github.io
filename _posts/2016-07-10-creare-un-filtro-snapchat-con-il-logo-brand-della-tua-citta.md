@@ -3,7 +3,7 @@ layout: post
 title:  "Come creare un filtro Snapchat con il brand della città Prato is Ganza"
 date:   2016-07-10 10:34:25
 categories: blog
-tags: featured
+tags: blog
 image: /assets/article_images/2016-07-10-creare-un-filtro-snapchat-con-il-logo-brand-della-tua-citta/3.jpg
 ---
 

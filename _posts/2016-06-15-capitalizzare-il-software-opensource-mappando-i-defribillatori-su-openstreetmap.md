@@ -3,7 +3,7 @@ layout: post
 title:  "Capitalizzare il software opensource mappando i defibrillatori su Openstreetmap"
 date:   2016-06-15 10:34:25
 categories: blog
-tags: featured
+tags: blog
 image: /assets/article_images/2016-06-15-capitalizzare-il-software-opensource-mappando-i-defribillatori-su-openstreetmap/0.jpg
 ---
 
@@ -42,4 +42,3 @@ Una nota ulteriore: per identificare bene il defibrillatore nel momento in cui m
 ![localizzazione del punto in cui si trova il defibrillatore](/assets/article_images/2016-06-15-capitalizzare-il-software-opensource-mappando-i-defribillatori-su-openstreetmap/3.jpg)
 ![inserimento dei tag](/assets/article_images/2016-06-15-capitalizzare-il-software-opensource-mappando-i-defribillatori-su-openstreetmap/4.jpg)
 Grazie!
-

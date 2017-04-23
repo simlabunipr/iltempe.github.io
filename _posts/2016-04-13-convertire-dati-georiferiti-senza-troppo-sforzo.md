@@ -3,16 +3,16 @@ layout: post
 title:  "Convertire dati georiferiti senza troppo sforzo"
 date:   2016-04-13 10:10:00
 categories: blog
-tags: featured
+tags: blog
 image: /assets/article_images/2016-04-13-convertire-dati-georiferiti-senza-troppo-sforzo/photo.jpg
 ---
 
 Stasera un semplice tutorial per imparare a convertire file contenenti dati georiferiti in vari formati.
-Il tutorial viene fuori da una bella scoperta (che io faccio solo adesso ma mi si dice sia conosciutissimo tra gli esperti): si chiama [GDAL](http://www.gdal.org/) ossia "Geospatial Data Abstraction Library" una libreria software che vi consente la manipolazione di dati geografici astraendovi dal loro formato, compreso la possibilità di passare dal un formato all'altro con un tool ad hoc che si chiama [ogr2ogr](http://www.gdal.org/ogr2ogr.html). La scoperta la faccio grazie ad "amici di dati" che si chiamano Matteo ed Andrea...gente che ne sa, molto più di me. 
+Il tutorial viene fuori da una bella scoperta (che io faccio solo adesso ma mi si dice sia conosciutissimo tra gli esperti): si chiama [GDAL](http://www.gdal.org/) ossia "Geospatial Data Abstraction Library" una libreria software che vi consente la manipolazione di dati geografici astraendovi dal loro formato, compreso la possibilità di passare dal un formato all'altro con un tool ad hoc che si chiama [ogr2ogr](http://www.gdal.org/ogr2ogr.html). La scoperta la faccio grazie ad "amici di dati" che si chiamano Matteo ed Andrea...gente che ne sa, molto più di me.
 
-Scopro quindi questa libreria e trovo subito un modo per sperimentare come usarla su un caso reale. Si chiama [OpendataGentediPrato](http://iltempe.github.io/opendatagentediprato/) portale di dati aperti dal basso per la mia città. 
+Scopro quindi questa libreria e trovo subito un modo per sperimentare come usarla su un caso reale. Si chiama [OpendataGentediPrato](http://iltempe.github.io/opendatagentediprato/) portale di dati aperti dal basso per la mia città.
 
-Trovo sul portale Openda Data Network un [dataset](http://www.opendatanetwork.it/dataset/wi-fi-free) del Comune di Prato che indica dove si trovano le WIFI del comune georiferite come dati su mappa. Formato dei dati KML. 
+Trovo sul portale Openda Data Network un [dataset](http://www.opendatanetwork.it/dataset/wi-fi-free) del Comune di Prato che indica dove si trovano le WIFI del comune georiferite come dati su mappa. Formato dei dati KML.
 Mi chiedo come posso dare modo di vederle in modo semplice? Mi rispondo: "posso farlo convertendo il file KML in un formato GeoJSON con [questo mio tutorial](http://iltempe.github.io/blog/2016/04/11/estrarre-dati-da-openstreetmap-e-visualizzarli.html)" convertendo cioè prima i dati da KML in un formato che si chiama GeoJSON ed archiviandoli poi su Github dove c'è la possibilità di vederli in modo facile.
 
 Ecco come potete procedere quindi.
@@ -57,10 +57,3 @@ Lo script completo [eccolo qua](https://github.com/iltempe/opendataprato/blob/ma
 E qui sotto il file convertito, le parti evidenziate sono le aree coperte dal WIFI nel Comune di Prato.
 
 <script src="https://embed.github.com/view/geojson/iltempe/opendataprato/master/wifi-free.geojson">&nbsp;</script>
-
-
-
-
-
-
-

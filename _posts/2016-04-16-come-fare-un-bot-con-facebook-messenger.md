@@ -3,13 +3,13 @@ layout: post
 title:  "Come fare un bot con Facebook Messenger"
 date:   2016-04-16 10:10:00
 categories: blog
-tags: featured
+tags: blog
 image: /assets/article_images/2016-04-16-come-fare-un-bot-con-facebook-messenger/fb.jpg
 ---
 
 
 Mi pareva doveroso dopo molte cose realizzate con [Telegram](https://telegram.org/), dare un po' di soddisfazione anche al mio carissimo amico Mark Zuckerberg, cioè, come dire, lui mi da un nuovo strumento per creare servizi ed io c'avevo una voglia matta di capire come si poteva usarlo. La conferenza di qualche giorno fa per gli sviluppatori Facebook potete rivederla [qui](https://www.fbf8.com/).
-Lascio ai giornalisti ed ai cronisti le analisi su quali siano le potenzialità del servizio con i BOT, che io dai tempi di Emergenzeprato con Telegram definisco rivoluzionario. Qui oggi mi limito a mettere le basi per creare un oggetto che risponde in chat sulla piattaforma [Messenger](https://www.messenger.com) di Facebook. 
+Lascio ai giornalisti ed ai cronisti le analisi su quali siano le potenzialità del servizio con i BOT, che io dai tempi di Emergenzeprato con Telegram definisco rivoluzionario. Qui oggi mi limito a mettere le basi per creare un oggetto che risponde in chat sulla piattaforma [Messenger](https://www.messenger.com) di Facebook.
 
 Ovviamente siamo agli inizi, pare ancora tutto è un po' rudimentale, sperimentale anche la piattaforma di sviluppo stessa, ma possiamo aspettarci che col tempo la cosa sarà resa più facile, esiste già una Dashboard per sviluppatori più "user friendly" ad oggi non ancora disponibile a tutti. Mi interessa di tutto questo che Facebook si apre ad essere piattaforma per servizi appunto, tramite Messenger, cosa non affatto scontata.  Intanto iniziamo col dire che rispetto a piattaforme come Telegram Facebook non risulta ancora di cosi immediato approccio dal momento che Mark Zuckerberg vuole comunque avere un controllo piuttosto importante (in termini di informazioni) sull' Applicazione che viene sviluppata per creare il BOT.
 
@@ -105,12 +105,10 @@ Se impostate pulsanti per l'utente dobbiamo ricordarci di gestire la chiamata Po
 ```
 Questo è un inizio. A questo punto il vostro BOT è interrogabile da voi stessi in modo privato (che ne siete amministratori), potete renderlo pubblico sottoponendo la vostra applicazione pubblica tramite il processo di Review di Facebook, grande differenza rispetto a Telegram appunto: Facebook deve fare una verifica delle vostre applicazioni prima di renderle pubbliche.
 
-Consiglio personale: iniziate studiando la guida ufficiale di Facebook. Per l'implementazione, io non sono partito da 0, esistono già molte soluzioni software con cui implementare il vostro webhook nel vostro linguaggio di programmazione preferito. Oltre al Javascript che è il linguaggio con cui Facebook vi guida, segnalo ad esempio [questo progetto](https://github.com/luisbebop/facebook-robot-sinatra) già pronto per il deploy in linguaggio Ruby. Io per il mio esperimento ho selezionato il linguaggio Javascript, lavorando su [questa soluzione](https://github.com/jw84/messenger-bot-tutorial) con licenza ICS. 
+Consiglio personale: iniziate studiando la guida ufficiale di Facebook. Per l'implementazione, io non sono partito da 0, esistono già molte soluzioni software con cui implementare il vostro webhook nel vostro linguaggio di programmazione preferito. Oltre al Javascript che è il linguaggio con cui Facebook vi guida, segnalo ad esempio [questo progetto](https://github.com/luisbebop/facebook-robot-sinatra) già pronto per il deploy in linguaggio Ruby. Io per il mio esperimento ho selezionato il linguaggio Javascript, lavorando su [questa soluzione](https://github.com/jw84/messenger-bot-tutorial) con licenza ICS.
 Ho effettuto un fork che trovate [qui](https://github.com/iltempe/robot) fatto deploy su [Heroku](https://dashboard.heroku.com/) e "agganciato" il webhook ad una Facebook APP con Messenger.
 Si tratta di una soluzione composta da un unico file index.js che gestisce  le API, la logica di risposta del BOT, un insieme di file Messages che consentono in modo facile di usare le risposte testo semplice, dati strutturati, pulsanti. Con questo codice riadeguato per i miei scopi e seguendo la guida sopra, ho provato a creare un bot per [OpendataGentediPrato](http://iltempe.github.io/opendatagentediprato). In questo momento il BOT se interrogato risponde ripetendo ciò che viene inviato come testo ed inviando due dataset di prova in caso si invii la BOT la stringa Generic.
-      
+
 ![screenshot](https://raw.githubusercontent.com/iltempe/robot/master/demo/5.png)
 
 ![screenshot](https://raw.githubusercontent.com/iltempe/robot/master/demo/6.png)
-
-

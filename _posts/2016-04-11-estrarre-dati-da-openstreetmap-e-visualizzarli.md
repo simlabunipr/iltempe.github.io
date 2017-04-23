@@ -3,7 +3,7 @@ layout: post
 title:  "Estrarre dati da Openstreetmap e visualizzarli su Github"
 date:   2016-04-11 10:10:25
 categories: blog
-tags: featured
+tags: blog
 image: /assets/article_images/2016-04-11-estrarre-dati-da-openstreetmap-e-visualizzarli/photo.jpg
 ---
 
@@ -23,7 +23,7 @@ E' tutto, possiamo iniziare.
 
 Installate sul vostro computer [NodeJS](https://nodejs.org/it/). Si tratta di un framework a eventi in grado di eseguire codice Javascript, per farlo implementa il V8 JavaScript Engine (il motore di Google Chrome) e vanta una elevata performance nel compilare codice Javascript. NPM è un Package Manager per node (Node Package Manager) ovvero di un software che consente di installare applicazioni per NodeJS. Le istruzioni per installare NodeJS e NPM le trovate al [link](https://nodejs.org/it/) in italiano. NPM dovrebbe autoinstallarsi sul vostro PC in modo automatico.
 
-Installate l'applicazione [Query-Overpass](https://github.com/perliedman/query-overpass) che vi consente di gestire query su Openstreetmap (l'autore è lo stesso della piattaforma [UMAP](https://umap.openstreetmap.fr/it/)). Overpass Turbo è un software che permette di gestire interrogazioni dei dati di Openstreetmap. E' possibile ad esempio chiedere qualcosa tipo "dimmi tutti i negozi presenti a Prato". Per installare 
+Installate l'applicazione [Query-Overpass](https://github.com/perliedman/query-overpass) che vi consente di gestire query su Openstreetmap (l'autore è lo stesso della piattaforma [UMAP](https://umap.openstreetmap.fr/it/)). Overpass Turbo è un software che permette di gestire interrogazioni dei dati di Openstreetmap. E' possibile ad esempio chiedere qualcosa tipo "dimmi tutti i negozi presenti a Prato". Per installare
 Query-Overpass questo vi basta digitare il comando
 
 ```bash
@@ -39,7 +39,7 @@ Esportate la query che avete creato facendo click su Esporta->Query->Compatta e 
 ```bash
 [out:json][timeout:25];area(3600280245)->.searchArea;(node["shop"](area.searchArea);way["shop"](area.searchArea);relation["shop"](area.searchArea););out body;>;out skel qt;
 ```
-A questo punto componiamo lo script che cerca i negozi su openstreetmap, salva i dati georiferiti in un file e successivamente facciamone un upload in un repository su Github. 
+A questo punto componiamo lo script che cerca i negozi su openstreetmap, salva i dati georiferiti in un file e successivamente facciamone un upload in un repository su Github.
 
 Create un file denominato negozi.json in un vostro repository Github.
 
@@ -64,7 +64,7 @@ echo '[out:json][timeout:25];area(3600280245)->.searchArea;(node["shop"](area.se
 
 ```
 
-Fatto! Se aprite il file [negozi.geojson](https://github.com/iltempe/opendataprato/blob/master/negozi.geojson) su Github potrete visualizzarlo come dati su una mappa! 
+Fatto! Se aprite il file [negozi.geojson](https://github.com/iltempe/opendataprato/blob/master/negozi.geojson) su Github potrete visualizzarlo come dati su una mappa!
 
 
 

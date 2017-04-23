@@ -3,7 +3,7 @@ layout: post
 title:  "Gestire un paesino in modo opensource"
 date:   2016-05-11 10:34:25
 categories: blog
-tags: featured
+tags: blog
 image: /assets/article_images/2016-05-11-gestire-un-paesino-in-modo-opensource/1.jpg
 ---
 
@@ -12,7 +12,7 @@ Mi sono convinto che, oltre che essere una piattaforma ottima per chi progetta e
 
 Pensiamo ad un piccolo comune italiano. Un paesino di pochi abitanti, come ce ne sono molti. Un luogo dove gli investimenti per creare una piattaforma di gestione delle informazioni e di servizi al cittadino scarseggiano. Pensiamo ad un luogo dove c'è bisogno di riformare completamente i processi delle pubbliche amministrazioni, cosi da obbligare il personale a produrre informazioni strutturate, accessibili e a farlo in modo collaborativo esattamente come si sviluppa software in modo opensource con [questo approccio](http://iltempe.github.io/blog/2016/05/05/primi-passi-con-github.html).
 
-Pensiamo ad un piccolo comune che voglia in pochi giorni avere un semplice portale per rendere fruibili dati in forma aperta, magari come [questo](http://iltempe.github.io/opendatagentediprato/). 
+Pensiamo ad un piccolo comune che voglia in pochi giorni avere un semplice portale per rendere fruibili dati in forma aperta, magari come [questo](http://iltempe.github.io/opendatagentediprato/).
 
 Pensiamo ad un comune che voglia rendere visionabili direttamente dai cittadini file di informazioni georiferite in [questo](https://github.com/iltempe/opendataprato/blob/master/artigiani.geojson) modo.
 

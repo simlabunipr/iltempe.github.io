@@ -3,7 +3,7 @@ layout: post
 title:  "TerremotoCentroItalia e la strategia dell'AGOPENDI"
 date:   2016-10-07 10:34:25
 categories: blog
-tags: featured
+tags: blog
 image: /assets/article_images/2016-10-07-terremotocentroitalia-e-la-strategia-di-AGOPENDI/1.jpg
 ---
 
