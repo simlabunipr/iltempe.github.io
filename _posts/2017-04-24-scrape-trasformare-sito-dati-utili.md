@@ -51,4 +51,14 @@ $canale = $xpath->query($my_xpath_query);
 $data=array($i,$url,$data,$ora,$canale->item(0)->nodeValue,$titolo->item(0)->nodeValue,$occhiello->item(0)->nodeValue,$catenaccio->item(0)->nodeValue,$testo->item(0)->nodeValue);
 ```
 
-Tutti i dati raccolti sono in questo [repo](https://github.com/iltempe/prato_news) licenza [CC BY](https://creativecommons.org/licenses/by/4.0/deed.it).
+Tutti i dati raccolti sono in questo [repo](https://github.com/iltempe/prato_news) licenza [CC BY](https://creativecommons.org/licenses/by/4.0/deed.it) i dataset in formato CSV sono composti come segue:
+- ID della notizia ricavata dal sito
+- URL link alla notizia pubblicata sul sito del Comune di Prato
+- DATA data di pubblicazione della notizia
+- ORA ora di pubblicazione della notizia
+- CANALE argomento della notizia
+- TITOLO titolo della notizia
+- OCCHIELLO campo occhiello della notizia
+- CATENACCIO campo catenaccio della notizia
+- TESTO campo testo della notizia
+Ove alcuni dati non fossero presenti il campo relativo è vuoto.
