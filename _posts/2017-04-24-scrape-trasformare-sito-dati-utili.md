@@ -7,12 +7,14 @@ tags: blog
 image: /assets/article_images/2017-04-24-scrape-trasformare-sito-dati-utili/1.jpg
 ---
 
-Esiste una tecnica molto nota tra gli hacker, denominata **web scraping**, che consente di prelevare in modo selettivo e programmatico i contenuti da un sito web in modo da maneggiarli ed elaborarli a proprio piacimento.
-Questa tecnica è molto comoda nel caso abbiate a che fare con siti della pubblica amministrazione molto "ricchi" di contenuti e molto aggiornati, ma molto poco strutturati in termini di dati riusabili: cosa significa questo? Significa che quando la fonte di informazione è un sito web basato su contenuti (principalmente testuali) è possibile usare la tecnica dello scraping (dall' inglese letteralmente "raschiatura") per selezionare le parti cehe più sono di interesse per trasformarle in dati con una struttura ben definita in modo tale che siano analizzabili facilmente, interpretabili da un software, aggregati, siano insomma un vero "dataset" pronto al riuso. **Lo scrape è una vera e propria arte** perchè si basa sulla capacità dell'hacker di non chiedere assolutamente nessuna modifica al sito web, di analizzarlo per come è, capirne i processi di aggiornamento e prelevare le informazioni di interesse tramite un'applicazione esterna (ovviamente è possibile farlo dove i termini legali lo consentano).
+Esiste una tecnica molto nota tra gli hacker, denominata [**web scraping**](https://it.wikipedia.org/wiki/Web_scraping), che consente di prelevare in modo selettivo e programmatico i contenuti da un sito web in modo da maneggiarli ed elaborarli a proprio piacimento.
+Questa tecnica è molto comoda nel caso abbiate a che fare con siti della pubblica amministrazione molto "ricchi" di contenuti e molto aggiornati, ma molto poco strutturati in termini di dati riusabili: cosa significa questo? Significa che quando la fonte di informazione è un sito web basato su contenuti (principalmente testuali) è possibile usare la tecnica dello scraping (dall' inglese letteralmente "raschiatura") per selezionare le parti cehe più sono di interesse per trasformarle in dati con una struttura ben definita in modo tale che siano analizzabili facilmente, interpretabili da un software, aggregati, siano insomma un vero "dataset" pronto al riuso.
+**Lo scrape è una vera e propria arte** perchè si basa sulla capacità dell'hacker di non chiedere assolutamente nessuna modifica al sito web, di analizzarlo per come è, capirne i processi di aggiornamento e prelevare le informazioni di interesse tramite un'applicazione esterna (ovviamente è possibile farlo dove i termini legali lo consentano).
 Il [Sito del Comune di Prato](http://www.comune.prato.it/) ha una [sezione di comunicati stampa](http://comunicati.comune.prato.it/generali/) ben curata ed aggiornata contenente i comunicati stampa dell'anno in corso e tutti quelli degli anni dal 2004 in poi. Mi ero proposto da tempo di creare un archivio di tutte le notizie pubblicate (dal 2004 ad oggi) che sono diverse migliaia.
-Ho pensato di spiegarvi come ho fatto nella speranza sia utile ad altri il procedimento ed i dati estratti.
-Ho iniziato per prima cosa ad analizzare come è strutturato un comunicato stampa del Comune, come [questo](http://comunicati.comune.prato.it/generali/?action=dettaglio&comunicato=14201700000001) e quali fossero i dati che volevo "liberare" di ogni comunicato. E' importante in questa valutazione verificare che tutti i comunicati abbiano in linea di principio la stessa struttura in temini di "stili" nella pagina web dove vengono visualizzate, cioè i titoli devono essere tutti con lo stesso formato, i sottotitoli idem, i link idem etc...
-![esempio di comunicato stampa e selezione dei dati](/assets/article_images/2017-04-24-scrape-trasformare-sito-dati-utili/2.jpg)
+Ho pensato di spiegarvi come ho fatto nella speranza sia utile ad altri il procedimento e siano utili anche i dati estratti.
+Ho iniziato per prima cosa ad analizzare come è strutturato un comunicato stampa del Comune, come [questo](http://comunicati.comune.prato.it/generali/?action=dettaglio&comunicato=14201700000001) e quali siano i dati da "liberare" di ogni comunicato.
+E' importante in questa valutazione verificare che tutti i comunicati abbiano in linea di principio la stessa struttura in temini di "stili" nella pagina web, cioè i titoli devono essere tutti con lo stesso formato, i sottotitoli idem, i link idem etc...
+![un comunicato stampa e la selezione dei dati da aprire](/assets/article_images/2017-04-24-scrape-trasformare-sito-dati-utili/2.jpg)
 Un modo per "raschiare" i dati di interesse da un sito è usare il linguaggio [xpath](https://it.wikipedia.org/wiki/XPath), ovvero un linguaggio che consente di individuare elementi di una pagina web localizzandoli con un percorso come fossero dei file archiviati su un computer. Come trovare questi percorsi? Un modo molto semplice è usare il browser Google Chrome, selezionare l'elemento da raschiare e col tasto destro fare click su Ispeziona. All'apertura della finesta di ispezione col tasto destro del mouse sulla riga evidenziata selezionare Copia->Copia Xpath in modo che venga copiato negli appunti il path dell'elemento selezionato nella pagina e sia possibile incollarlo altrove.
 ![come trovare Xpath con Chrome](/assets/article_images/2017-04-24-scrape-trasformare-sito-dati-utili/3.jpg)
 Questa operazione va ripetuta per tutte le parti della pagina che si desidera estrarre come dati utili. Nel caso del comunicato stampa ho scelto queste:
@@ -52,13 +54,13 @@ $data=array($i,$url,$data,$ora,$canale->item(0)->nodeValue,$titolo->item(0)->nod
 ```
 
 Tutti i dati raccolti sono in questo [repo](https://github.com/iltempe/prato_news) licenza [CC BY](https://creativecommons.org/licenses/by/4.0/deed.it) i dataset in formato CSV sono composti come segue:
-- ID della notizia ricavata dal sito
-- URL link alla notizia pubblicata sul sito del Comune di Prato
-- DATA data di pubblicazione della notizia
-- ORA ora di pubblicazione della notizia
-- CANALE argomento della notizia
-- TITOLO titolo della notizia
-- OCCHIELLO campo occhiello della notizia
-- CATENACCIO campo catenaccio della notizia
-- TESTO campo testo della notizia
+- **ID** della notizia ricavata dal sito
+- **URL** link alla notizia pubblicata sul sito del Comune di Prato
+- **DATA** data di pubblicazione della notizia
+- **ORA** ora di pubblicazione della notizia
+- **CANALE** argomento della notizia
+- **TITOLO** titolo della notizia
+- **OCCHIELLO** campo occhiello della notizia
+- **CATENACCIO** campo catenaccio della notizia
+- **TESTO** campo testo della notizia
 Ove alcuni dati non fossero presenti il campo relativo è vuoto.
