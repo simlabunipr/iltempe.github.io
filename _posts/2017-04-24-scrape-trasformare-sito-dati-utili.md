@@ -32,8 +32,10 @@ Idividuati gli Xpath è semplice con un'applicazione come [Google Sheet](https:/
 dove URL è il link della pagina web da analizzare e query è il path Xpath che avete analizzato.
 ![Esempio di Scraping con Google Sheet](/assets/article_images/2017-04-24-scrape-trasformare-sito-dati-utili/4.jpg)
 GOOGLE Sheet è adatto per creare dataset con pochi dati in modo rapido quindi se volete prelevare i dati ad esempio di 10 articoli del 2017. Non è possibile gestire con un foglio Google un archivio come quello di tutti i comunicati stampa del comune di Prato perchè i dati da analizzare sono moltissimi e lo strumento non riesce a estrarre tutto quello che vi serve perchè l'operazione è molto "pesante", occorre quindi qualcosa di più potente, uno script fatto in casa che memorizzi tutti i dati e crei i dataset richiesti. Ho scelto di creare un file CSV per ogni anno dal 2004 ad oggi che contenga tutti i comunicati stampa di quell'anno con i dati richiesti. Per fare scrape normalmente lavoro con linguaggio PHP, ma solo per semplicità perchè questo linguaggio consente di essere eseguito via browser o su un PC senza setup complessi, ma il principio è riapplicabile con un altro linguaggio che preferite.
-Il codice è visionabile [qui](https://github.com/iltempe/prato_news). Si tratta di un solo file (che da prompt dei comandi è possibile lanciare con "php data_news.php"). Nello script ci sono due funzioni una effettua lo scrape vero e proprio, la seconda è di ausilio e serve per trovare quanti comunicati sono presenti in un anno definito (le notizie sono divise per anno). In sequenza nel codice si eseguono queste operazioni (ho commentato il codice quindi è possibile individuarle anche se non si conosce il PHP in dettaglio)
-- Genero gli archivi delle notizie di tutti gli anni (o di solo quelle che mi interessano);
+Il codice è visionabile [qui](https://github.com/iltempe/prato_news). Si tratta di un solo file (che da prompt dei comandi è possibile lanciare con "php data_news.php"). Nello script ci sono due funzioni: una effettua lo scrape vero e proprio, la seconda è di ausilio e serve per trovare quanti comunicati sono presenti in un anno definito (le notizie sono divise per anno).
+
+In sequenza nel codice si eseguono queste operazioni (ho commentato il codice quindi è possibile individuarle anche se non si conosce il PHP in dettaglio)
+- Scelgo gli archivi delle notizie di tutti gli anni (o di solo quelle che mi interessano);
 - Definisco il nome dell'archivio dell'anno scelto (es. 2004_news.csv)
 - Ricavo il massimo numero di notizie presenti per l'anno selezionato
 - Scrivo nel file archivio l'intestazione
@@ -53,7 +55,14 @@ $canale = $xpath->query($my_xpath_query);
 $data=array($i,$url,$data,$ora,$canale->item(0)->nodeValue,$titolo->item(0)->nodeValue,$occhiello->item(0)->nodeValue,$catenaccio->item(0)->nodeValue,$testo->item(0)->nodeValue);
 ```
 
-Tutti i dati raccolti sono in questo [repository](https://github.com/iltempe/prato_news) licenza [CC BY](https://creativecommons.org/licenses/by/4.0/deed.it) i dataset in formato CSV sono composti come segue:
+Tutti i dati raccolti sono in questo [repository](https://github.com/iltempe/prato_news) licenza [CC BY](https://creativecommons.org/licenses/by/4.0/deed.it).
+
+Per scaricare i dati direttamente ecco i link alle notizie:
+
+<a download="2004_news.csv" href="https://raw.githubusercontent.com/iltempe/prato_news/master/2004_news.csv" title="2004 News">
+</a>
+
+I dataset in formato CSV sono composti come segue (ove alcuni dati non fossero presenti il campo relativo è vuoto):
 - **ID** della notizia ricavata dal sito
 - **URL** link alla notizia pubblicata sul sito del Comune di Prato
 - **DATA** data di pubblicazione della notizia
@@ -63,4 +72,3 @@ Tutti i dati raccolti sono in questo [repository](https://github.com/iltempe/pra
 - **OCCHIELLO** campo occhiello della notizia
 - **CATENACCIO** campo catenaccio della notizia
 - **TESTO** campo testo della notizia
-Ove alcuni dati non fossero presenti il campo relativo è vuoto.
