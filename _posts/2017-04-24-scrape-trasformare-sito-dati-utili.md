@@ -72,7 +72,7 @@ Per scaricare i dati direttamente ecco i link alle notizie:
 [Anno 2014](https://raw.githubusercontent.com/iltempe/Comune-di-Prato/master/news/2014_news.csv)
 [Anno 2015](https://raw.githubusercontent.com/iltempe/Comune-di-Prato/master/news/2015_news.csv)
 [Anno 2016](https://raw.githubusercontent.com/iltempe/Comune-di-Prato/master/news/2016_news.csv)
-[Anno 2017](https://raw.githubusercontent.com/iltempe/Comune-di-Prato/master/news/2017_news.csv
+[Anno 2017](https://raw.githubusercontent.com/iltempe/Comune-di-Prato/master/news/2017_news.csv)
 
 I dataset in formato CSV sono composti come segue (ove alcuni dati non fossero presenti il campo relativo è vuoto):
 - **ID** della notizia ricavata dal sito
