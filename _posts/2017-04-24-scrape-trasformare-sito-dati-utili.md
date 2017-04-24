@@ -55,24 +55,24 @@ $canale = $xpath->query($my_xpath_query);
 $data=array($i,$url,$data,$ora,$canale->item(0)->nodeValue,$titolo->item(0)->nodeValue,$occhiello->item(0)->nodeValue,$catenaccio->item(0)->nodeValue,$testo->item(0)->nodeValue);
 ```
 
-Tutti i dati raccolti sono in questo [repository](https://github.com/iltempe/prato_news) licenza [CC BY](https://creativecommons.org/licenses/by/4.0/deed.it).
+Tutti i dati raccolti sono in questo [repository](https://github.com/iltempe/Comune-di-Prato/tree/master/news) licenza [CC BY](https://creativecommons.org/licenses/by/4.0/deed.it).
 
 Per scaricare i dati direttamente ecco i link alle notizie:
 
-[Anno 2004](https://raw.githubusercontent.com/iltempe/prato_news/master/2004_news.csv)
-[Anno 2005](https://raw.githubusercontent.com/iltempe/prato_news/master/2005_news.csv)
-[Anno 2006](https://raw.githubusercontent.com/iltempe/prato_news/master/2006_news.csv)
-[Anno 2007](https://raw.githubusercontent.com/iltempe/prato_news/master/2007_news.csv)
-[Anno 2008](https://raw.githubusercontent.com/iltempe/prato_news/master/2008_news.csv)
-[Anno 2009](https://raw.githubusercontent.com/iltempe/prato_news/master/2009_news.csv)
-[Anno 2010](https://raw.githubusercontent.com/iltempe/prato_news/master/2010_news.csv)
-[Anno 2011](https://raw.githubusercontent.com/iltempe/prato_news/master/2011_news.csv)
-[Anno 2012](https://raw.githubusercontent.com/iltempe/prato_news/master/2012_news.csv)
-[Anno 2013](https://raw.githubusercontent.com/iltempe/prato_news/master/2013_news.csv)
-[Anno 2014](https://raw.githubusercontent.com/iltempe/prato_news/master/2014_news.csv)
-[Anno 2015](https://raw.githubusercontent.com/iltempe/prato_news/master/2015_news.csv)
-[Anno 2016](https://raw.githubusercontent.com/iltempe/prato_news/master/2016_news.csv)
-[Anno 2017](https://raw.githubusercontent.com/iltempe/prato_news/master/2017_news.csv)
+[Anno 2004](https://raw.githubusercontent.com/iltempe/Comune-di-Prato/master/news/2004_news.csv)
+[Anno 2005](https://raw.githubusercontent.com/iltempe/Comune-di-Prato/master/news/2005_news.csv)
+[Anno 2006](https://raw.githubusercontent.com/iltempe/Comune-di-Prato/master/news/2006_news.csv)
+[Anno 2007](https://raw.githubusercontent.com/iltempe/Comune-di-Prato/master/news/2007_news.csv)
+[Anno 2008](https://raw.githubusercontent.com/iltempe/Comune-di-Prato/master/news/2008_news.csv)
+[Anno 2009](https://raw.githubusercontent.com/iltempe/Comune-di-Prato/master/news/2009_news.csv)
+[Anno 2010](https://raw.githubusercontent.com/iltempe/Comune-di-Prato/master/news/2010_news.csv)
+[Anno 2011](https://raw.githubusercontent.com/iltempe/Comune-di-Prato/master/news/2011_news.csv)
+[Anno 2012](https://raw.githubusercontent.com/iltempe/Comune-di-Prato/master/news/2012_news.csv)
+[Anno 2013](https://raw.githubusercontent.com/iltempe/Comune-di-Prato/master/news/2013_news.csv)
+[Anno 2014](https://raw.githubusercontent.com/iltempe/Comune-di-Prato/master/news/2014_news.csv)
+[Anno 2015](https://raw.githubusercontent.com/iltempe/Comune-di-Prato/master/news/2015_news.csv)
+[Anno 2016](https://raw.githubusercontent.com/iltempe/Comune-di-Prato/master/news/2016_news.csv)
+[Anno 2017](https://raw.githubusercontent.com/iltempe/Comune-di-Prato/master/news/2017_news.csv
 
 I dataset in formato CSV sono composti come segue (ove alcuni dati non fossero presenti il campo relativo è vuoto):
 - **ID** della notizia ricavata dal sito
