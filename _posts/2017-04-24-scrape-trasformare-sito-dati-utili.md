@@ -59,20 +59,20 @@ Tutti i dati raccolti sono in questo [repository](https://github.com/iltempe/pra
 
 Per scaricare i dati direttamente ecco i link alle notizie:
 
-[Anno 2004](https://raw.githubusercontent.com/iltempe/prato_news/master/2004_news.csv)
-[Anno 2005](https://raw.githubusercontent.com/iltempe/prato_news/master/2005_news.csv)
-[Anno 2006](https://raw.githubusercontent.com/iltempe/prato_news/master/2006_news.csv)
-[Anno 2007](https://raw.githubusercontent.com/iltempe/prato_news/master/2007_news.csv)
-[Anno 2008](https://raw.githubusercontent.com/iltempe/prato_news/master/2008_news.csv)
-[Anno 2009](https://raw.githubusercontent.com/iltempe/prato_news/master/2009_news.csv)
-[Anno 2010](https://raw.githubusercontent.com/iltempe/prato_news/master/2010_news.csv)
-[Anno 2011](https://raw.githubusercontent.com/iltempe/prato_news/master/2011_news.csv)
-[Anno 2012](https://raw.githubusercontent.com/iltempe/prato_news/master/2012_news.csv)
-[Anno 2013](https://raw.githubusercontent.com/iltempe/prato_news/master/2013_news.csv)
-[Anno 2014](https://raw.githubusercontent.com/iltempe/prato_news/master/2014_news.csv)
-[Anno 2015](https://raw.githubusercontent.com/iltempe/prato_news/master/2015_news.csv)
-[Anno 2016](https://raw.githubusercontent.com/iltempe/prato_news/master/2016_news.csv)
-[Anno 2017](https://raw.githubusercontent.com/iltempe/prato_news/master/2017_news.csv)
+- [Anno 2004](https://raw.githubusercontent.com/iltempe/prato_news/master/2004_news.csv)
+- [Anno 2005](https://raw.githubusercontent.com/iltempe/prato_news/master/2005_news.csv)
+- [Anno 2006](https://raw.githubusercontent.com/iltempe/prato_news/master/2006_news.csv)
+- [Anno 2007](https://raw.githubusercontent.com/iltempe/prato_news/master/2007_news.csv)
+- [Anno 2008](https://raw.githubusercontent.com/iltempe/prato_news/master/2008_news.csv)
+- [Anno 2009](https://raw.githubusercontent.com/iltempe/prato_news/master/2009_news.csv)
+- [Anno 2010](https://raw.githubusercontent.com/iltempe/prato_news/master/2010_news.csv)
+- [Anno 2011](https://raw.githubusercontent.com/iltempe/prato_news/master/2011_news.csv)
+- [Anno 2012](https://raw.githubusercontent.com/iltempe/prato_news/master/2012_news.csv)
+- [Anno 2013](https://raw.githubusercontent.com/iltempe/prato_news/master/2013_news.csv)
+- [Anno 2014](https://raw.githubusercontent.com/iltempe/prato_news/master/2014_news.csv)
+- [Anno 2015](https://raw.githubusercontent.com/iltempe/prato_news/master/2015_news.csv)
+- [Anno 2016](https://raw.githubusercontent.com/iltempe/prato_news/master/2016_news.csv)
+- [Anno 2017](https://raw.githubusercontent.com/iltempe/prato_news/master/2017_news.csv)
 
 I dataset in formato CSV sono composti come segue (ove alcuni dati non fossero presenti il campo relativo è vuoto):
 - **ID** della notizia ricavata dal sito
