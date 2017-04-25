@@ -11,6 +11,8 @@ description: > # this means to ignore newlines until "email:"
 email: mtempestini@gmail.com
 #blog logo
 logo: "/assets/images/author.jpg"
+float_logo: true # true, false (default)
+
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
@@ -27,6 +29,8 @@ twitter_handle: '@il_tempe'
 
 #fill in disqus shortname to use disqus
 disqus: iltempe
+
+google_analytics: UA-47474515-2
 
 # social icons and sharing options
 social:
