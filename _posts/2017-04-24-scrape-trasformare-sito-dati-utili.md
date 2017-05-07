@@ -55,7 +55,7 @@ $canale = $xpath->query($my_xpath_query);
 $data=array($i,$url,$data,$ora,$canale->item(0)->nodeValue,$titolo->item(0)->nodeValue,$occhiello->item(0)->nodeValue,$catenaccio->item(0)->nodeValue,$testo->item(0)->nodeValue);
 ```
 
-Tutti i dati raccolti sono in questo [repository](https://github.com/iltempe/Comune-di-Prato/tree/master/news) licenza [CC BY](https://creativecommons.org/licenses/by/4.0/deed.it).
+Tutti i dati raccolti sono in questo [repository](https://github.com/iltempe/Comune-di-Prato/tree/master/news).
 
 Per scaricare i dati direttamente ecco i link alle notizie:
 
