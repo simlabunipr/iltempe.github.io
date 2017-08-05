@@ -20,16 +20,18 @@ Per usare i dati nel proprio sito web sarà a questo punto sufficiente usare la 
 
 Supponiamo adesso di dove stampare la lista delle biblioteche presenti nella città e il relativo indirizzo in una pagina web. Vi basterà usare il seguente codice, dove la struttura `site.data.puntidiinteressebiblioteche` punta direttamente ai vostri dati importati.
 
-```
-    <ul>
-    {% for member in site.data.puntidiinteressebiblioteche %}
-    <li>
-    {{ member.nome }} : {{ member.indirizzo }}
-    </li>
-    {% endfor %}
-    </ul>
-```
+
 Il codice viene renderizzato nella pagina web in questo modo.
+
+```
+<ul>
+{% for member in site.data.puntidiinteressebiblioteche %}
+  <li>
+      {{ member.nome }} : {{ member.indirizzo }}
+  </li>
+{% endfor %}
+</ul>
+```
 
 <ul>
 {% for member in site.data.puntidiinteressebiblioteche %}
@@ -39,7 +41,7 @@ Il codice viene renderizzato nella pagina web in questo modo.
 {% endfor %}
 </ul>
 
-Se poi si volesse anche creare una mappa di tutte le biblioteche direttamente nella pagina web.
+Se poi si volesse creare una mappa di tutte le biblioteche direttamente nella pagina web.
 
 
 
