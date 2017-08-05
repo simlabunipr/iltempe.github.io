@@ -8,7 +8,8 @@ image: /assets/article_images/2017-08-05-generare-siti-da-dataset/2.jpeg
 ---
 
 
-Ho già un po' parlato della mia simpatia per l'ambiente [Jekyll](https://jekyllrb.com/) in [questo post](https://medium.com/@iltempe/incorporare-i-video-in-jekyll-senza-plugin-64a2d7ef4e54). Tra le caratteristiche di Jekyll c'è la possibilità di poter usare automaticamente pagine web da file contenenti dati. L'unico vincolo come spiegato nelle [istruzioni](https://jekyllrb.com/docs/datafiles/) è che i file siano in formato CSV, YAML o JSON.
+Ho già un po' scritto della mia simpatia per l'ambiente [Jekyll](https://jekyllrb.com/) in [questo post](https://medium.com/@iltempe/incorporare-i-video-in-jekyll-senza-plugin-64a2d7ef4e54). Tra le caratteristiche di Jekyll c'è la possibilità di poter usare dati direttamente in post e pagine web. L'unico vincolo come spiegato nelle [istruzioni](https://jekyllrb.com/docs/datafiles/) è che i file dei dati siano in formato CSV, YAML o JSON.
+
 Un sito sviluppato con Jekyll può infatti contenere una cartella denominata "_data" all'interno della quale il sito stesso attinge a dati contenuti in file presenti nella folder, in particolare all'interno di pagine web si può addirittura usare direttamente i dati dei file!
 E' quindi possibile pensare di poter sviluppare servizi basati su dataset aperti importando tali dataset nella cartella _data del proprio sito e usare i dati direttamente nello sviluppo in modo tale che il sito web a cui lavorate sia direttamente popolato dai dati che state riusando. Sarà sufficiente importare i file di cui avete bisogno nella folder "_data" e usare i dati secondo le istruzioni di Jekyll. Ricordatevi ovviamente di rispettare i termini di riuso dei dati rispettando i crediti di chi li produce.
 
@@ -20,19 +21,11 @@ Per usare i dati nel proprio sito web sarà a questo punto sufficiente usare la 
 
 Supponiamo adesso di dove stampare la lista delle biblioteche presenti nella città e il relativo indirizzo in una pagina web. Vi basterà usare il seguente codice, dove la struttura `site.data.puntidiinteressebiblioteche` punta direttamente ai vostri dati importati.
 
+![](/assets/article_images/2017-08-05-generare-siti-da-dataset/3.png)
+
 
 Il codice viene renderizzato nella pagina web in questo modo.
 
-```
-<ul>
-{% for member in site.data.puntidiinteressebiblioteche %}
-  <li>
-      {{ member.nome }} : {{ member.indirizzo }}
-  </li>
-{% endfor %}
-</ul>
-```
-
 <ul>
 {% for member in site.data.puntidiinteressebiblioteche %}
   <li>
@@ -41,7 +34,23 @@ Il codice viene renderizzato nella pagina web in questo modo.
 {% endfor %}
 </ul>
 
-Se poi si volesse creare una mappa di tutte le biblioteche direttamente nella pagina web.
+Se poi si volesse creare ad esempio un link alla posizione geografica su mappa per ogni Biblioteca si puà fare uso di un semplice hyperlink ad [Openstreetmap](www.openstreetmap.org) in questo modo.
+
+![](/assets/article_images/2017-08-05-generare-siti-da-dataset/4.png)
+
+Così da generare questo elenco.
+
+<ul>
+{% for member in site.data.puntidiinteressebiblioteche %}
+  <li>
+      <a href="http://www.openstreetmap.org/?mlat={{ member.Y }}&mlon={{ member.X }}&zoom=12">{{ member.nome }}</a>
+  </li>
+{% endfor %}
+</ul>
+
+E così via. Usando un minimo di programmazione Ruby (non troppa) un po' di html e Markdown ci si può divertire a generare veri e propri post, pagine web o porzioni di pagine. Ovviamente più i dati sono ricchi più possibilità ci sono.
+Il vantaggio di lavorare in questo modo rispetto a scrivere direttamente i contenuti nel codice è che "la forma è staccata dalla sostanza" nel senso che il dataset è un file che potete aggiornare senza impatto con il vostro sito che si autorigenera automaticamente ogni volta aggiornerete il dataset. Potete anche pensare di aggiornare il dataset ogni volta l'organizzazione che lo produce ne farà un aggiornamento in questo modo se i dataset sono aggiornati il vostro sito sarà perfettamente allineato da essi.
+
 
 
 
