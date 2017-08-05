@@ -7,6 +7,7 @@ tags: blog
 image: /assets/article_images/2017-08-05-generare-siti-da-dataset/2.jpeg
 ---
 
+
 Ho già un po' parlato della mia simpatia per l'ambiente [Jekyll](https://jekyllrb.com/) in [questo post](https://medium.com/@iltempe/incorporare-i-video-in-jekyll-senza-plugin-64a2d7ef4e54). Tra le caratteristiche di Jekyll c'è la possibilità di poter usare automaticamente pagine web da file contenenti dati. L'unico vincolo come spiegato nelle [istruzioni](https://jekyllrb.com/docs/datafiles/) è che i file siano in formato CSV, YAML o JSON.
 Un sito sviluppato con Jekyll può infatti contenere una cartella denominata "_data" all'interno della quale il sito stesso attinge a dati contenuti in file presenti nella folder, in particolare all'interno di pagine web si può addirittura usare direttamente i dati dei file!
 E' quindi possibile pensare di poter sviluppare servizi basati su dataset aperti importando tali dataset nella cartella _data del proprio sito e usare i dati direttamente nello sviluppo in modo tale che il sito web a cui lavorate sia direttamente popolato dai dati che state riusando. Sarà sufficiente importare i file di cui avete bisogno nella folder "_data" e usare i dati secondo le istruzioni di Jekyll. Ricordatevi ovviamente di rispettare i termini di riuso dei dati rispettando i crediti di chi li produce.
@@ -20,14 +21,13 @@ Per usare i dati nel proprio sito web sarà a questo punto sufficiente usare la 
 Supponiamo adesso di dove stampare la lista delle biblioteche presenti nella città e il relativo indirizzo in una pagina web. Vi basterà usare il seguente codice, dove la struttura `site.data.puntidiinteressebiblioteche` punta direttamente ai vostri dati importati.
 
 ```
-<ul>
-`{% for member in site.data.puntidiinteressebiblioteche %}`
-<li>
-`{{ member.nome }} : {{ member.indirizzo }}`
-</a>
-</li>
-`{% endfor %}`
-</ul>
+    <ul>
+    {% for member in site.data.puntidiinteressebiblioteche %}
+    <li>
+    {{ member.nome }} : {{ member.indirizzo }}
+    </li>
+    {% endfor %}
+    </ul>
 ```
 Il codice viene renderizzato nella pagina web in questo modo.
 
@@ -35,10 +35,12 @@ Il codice viene renderizzato nella pagina web in questo modo.
 {% for member in site.data.puntidiinteressebiblioteche %}
   <li>
       {{ member.nome }} : {{ member.indirizzo }}
-    </a>
   </li>
 {% endfor %}
 </ul>
+
+Se poi si volesse anche creare una mappa di tutte le biblioteche direttamente nella pagina web.
+
 
 
 
