@@ -61,3 +61,6 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+markdown: kramdown
+kramdown:
+  use_coderay: true
