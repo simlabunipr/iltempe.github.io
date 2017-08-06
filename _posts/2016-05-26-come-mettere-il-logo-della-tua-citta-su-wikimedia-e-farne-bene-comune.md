@@ -4,7 +4,6 @@ title:  "Come mettere il logo della tua città su Wikimedia per farne un bene co
 date:   2016-05-26 10:34:25
 categories: blog
 tags:
-  - blog
   - prato
   - wikimedia
 image: /assets/article_images/2016-05-26-come-mettere-il-logo-della-tua-citta-su-wikimedia-e-farne-bene-comune/0.jpg

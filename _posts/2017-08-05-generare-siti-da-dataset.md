@@ -3,7 +3,11 @@ layout: post
 title:  "Generare automaticamente pagine web con gli Opendata"
 date:   2017-08-05 10:34:25
 categories: blog
-tags: blog
+tags:
+  - opendata
+  - web design
+  - jekyll
+  - github
 image: /assets/article_images/2017-08-05-generare-siti-da-dataset/2.jpeg
 ---
 

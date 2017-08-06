@@ -3,7 +3,10 @@ layout: post
 title:  "Come fare un bot con Facebook Messenger"
 date:   2016-04-16 10:10:00
 categories: blog
-tags: blog
+tags:
+  - bot
+  - messenger
+  - social
 image: /assets/article_images/2016-04-16-come-fare-un-bot-con-facebook-messenger/fb.jpg
 ---
 

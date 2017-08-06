@@ -4,7 +4,7 @@ title:  "Capitalizzare il software opensource mappando i defibrillatori su Opens
 date:   2016-06-15 10:34:25
 categories: blog
 tags:
-   - blog
+   - openstreetmap
    - opensource
    - telegram
 image: /assets/article_images/2016-06-15-capitalizzare-il-software-opensource-mappando-i-defribillatori-su-openstreetmap/0.jpg

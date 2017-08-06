@@ -4,7 +4,6 @@ title:  "TerremotoCentroItalia e la strategia dell'AGOPENDI"
 date:   2016-10-07 10:34:25
 categories: blog
 tags:
-  - blog
   - emergenze
   - opendata
   - civic hacking

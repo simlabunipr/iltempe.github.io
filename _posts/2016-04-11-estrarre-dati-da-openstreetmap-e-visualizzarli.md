@@ -4,7 +4,7 @@ title:  "Estrarre dati da Openstreetmap e visualizzarli su Github"
 date:   2016-04-11 10:10:25
 categories: blog
 tags:
-  - blog
+  - opendata 
   - openstreetmap
   - github
 image: /assets/article_images/2016-04-11-estrarre-dati-da-openstreetmap-e-visualizzarli/photo.jpg

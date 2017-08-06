@@ -3,7 +3,10 @@ layout: post
 title:  "Fare un semplice portale Opendata per la gente della tua città"
 date:   2016-03-30 10:34:25
 categories: blog
-tags: blog
+tags:
+  - opendata
+  - prato
+  - civic hacking
 image: /assets/article_images/2016-03-30-fare-un-portale-opendata-per-la-gente-della-tua-città/opendatagentediprato.png
 ---
 

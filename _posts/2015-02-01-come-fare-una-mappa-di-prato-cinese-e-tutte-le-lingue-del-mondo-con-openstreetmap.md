@@ -5,7 +5,7 @@ layout: post
 permalink: /come-fare-una-mappa-di-prato-cinese-e-tutte-le-lingue-del-mondo-con-openstreetmap/
 categories: blog
 tags:
-  - blog
+  - opendata
   - openstreetmap
   - prato
 ---

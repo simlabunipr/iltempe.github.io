@@ -3,7 +3,9 @@ layout: post
 title:  "Convertire dati georiferiti senza troppo sforzo"
 date:   2016-04-13 10:10:00
 categories: blog
-tags: blog
+tags:
+  - opendata
+  - civic hacking
 image: /assets/article_images/2016-04-13-convertire-dati-georiferiti-senza-troppo-sforzo/photo.jpg
 ---
 

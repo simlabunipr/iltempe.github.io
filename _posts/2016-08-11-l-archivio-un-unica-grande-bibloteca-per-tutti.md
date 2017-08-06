@@ -3,7 +3,9 @@ layout: post
 title:  "L'archivio: un'unica grande bibloteca per tutti"
 date:   2016-08-11 10:34:25
 categories: blog
-tags: blog
+tags:
+  - archive
+  - open culture
 image: /assets/article_images/2016-08-11-l-archivio-un-unica-grande-bibloteca-per-tutti/2.jpg
 ---
 

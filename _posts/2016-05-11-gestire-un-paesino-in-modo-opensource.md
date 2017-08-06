@@ -3,7 +3,9 @@ layout: post
 title:  "Gestire un paesino in modo opensource"
 date:   2016-05-11 10:34:25
 categories: blog
-tags: blog
+tags:
+  - civic hacking
+  - opensource
 image: /assets/article_images/2016-05-11-gestire-un-paesino-in-modo-opensource/1.jpg
 ---
 

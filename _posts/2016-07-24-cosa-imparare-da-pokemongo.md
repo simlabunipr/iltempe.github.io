@@ -3,7 +3,8 @@ layout: post
 title:  "Cosa imparare da PokemonGo"
 date:   2016-07-24 10:34:25
 categories: blog
-tags: blog
+tags:
+  - gamification
 image: /assets/article_images/2016-07-24-cosa-imparare-da-pokemongo/1.jpg
 ---
 

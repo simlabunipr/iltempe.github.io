@@ -3,7 +3,8 @@ layout: post
 title:  "Cosa è Territori Open?"
 date:   2016-05-01 10:34:25
 categories: blog
-tags: blog
+tags:
+  - opensource
 image: /assets/article_images/2016-05-01-cosa-e-territori-open/1.jpg
 ---
 
