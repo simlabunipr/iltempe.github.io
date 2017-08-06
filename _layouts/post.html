@@ -54,6 +54,7 @@
           {{content}}
         </section>
         <footer class="post-footer">
+          {% include post-tags.html %}
           <section class="share">
             {% for social in site.social %}
               {% if social.share_url != null %}
@@ -116,7 +117,6 @@
       </div>
     </div>
     {% include javascripts.html %}
-    {% include post-tags.html %}
 
   </body>
 </html>
