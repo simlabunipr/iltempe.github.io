@@ -10,6 +10,8 @@ categories:
 tags:
   - blender
   - dataviz
+  - 3D
+  - opendata
 ---
 <p style="text-align: justify;">
   Da tempo mi sono fissato che sia sempre più necessario sviluppare metodi per rendere più fruibili i dati per porre i presupposti di una rapida applicazione del digitale nella nostra vita di tutti i giorni: questo vale per gli opendata, ma in modo più generale potremmo parlarne per i bigdata in generale. Per questo motivo (e per passione personale) sto dedicando un po’ di tempo per testare tecniche di visualizzazione dei dati in tre dimensioni.

@@ -4,7 +4,10 @@ date: 2015-02-01T18:56:45+00:00
 layout: post
 permalink: /come-fare-una-mappa-di-prato-cinese-e-tutte-le-lingue-del-mondo-con-openstreetmap/
 categories: blog
-tags: blog
+tags:
+  - blog
+  - openstreetmap
+  - prato
 ---
 <p style="text-align: justify;">
   Con l&#8217;associazione <a href="https://www.facebook.com/meltinpo?fref=ts" target="_blank">Meltin-PO</a>,  che a Prato opera costantemente per un&#8217;inclusione degli immigrati nella nostra città e nella nostra cultura, ieri abbiamo iniziato insieme un percorso per arricchire le mappe <a href="http://www.openstreetmap.org/" target="_blank">Openstreetmap</a> del nostro territorio assieme alle persone provenienti da paesi stranieri che vivono a Prato (in maggioranza cinesi). L&#8217;idea è di popolare Openstreetmap a Prato con dati in lingua cinese (e non solo) in modo da creare mappe fruibili per gli stranieri che vivono e vivranno nella nostra città, ma anche per turisti.

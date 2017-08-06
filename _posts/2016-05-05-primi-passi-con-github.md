@@ -3,7 +3,9 @@ layout: post
 title:  "Primi Passi con Github"
 date:   2016-05-05 10:34:25
 categories: blog
-tags: blog
+tags:
+  - blog
+  - github
 image: /assets/article_images/2016-05-05-primi-passi-con-github/1.jpeg
 ---
 

@@ -16,6 +16,7 @@ tags:
   - iot
   - opendata
   - prato
+  - emergenze
 ---
 <p style="text-align: justify;">
 Devo dire la verità. Questa idea me l&#8217;ha infilata in testa una persona che lavora alla protezione civile di Prato quando un anno fa parlai di Twitter come possibile strumento per inviare aggiornamenti delle allerte via web. Questa persona mi disse &#8220;non sottovaluti la potenza del megafono, ingegnere, dove si arriva con quello Twitter non arriva&#8221;. Da nativo digitale quale sono in quella situazione non diedi la giusta importanza a quelle parole. Poi ci ho ripensato su ed effettivamente poi ho compreso: se tu devi dare un&#8217;allarme o un&#8217;allerta o anche solo comunicare un possibile rischio devi fare si comunicazione online, ma devi farla anche e soprattutto sul posto. Ecco perchè il megafono è ancora molto sponsorizzato dalla protezione civile, perchè permette di allertare chi è intorno a noi (anche se non ha internet).

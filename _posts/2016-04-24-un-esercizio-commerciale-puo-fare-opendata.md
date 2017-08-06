@@ -3,13 +3,15 @@ layout: post
 title:  "Un esercizio commerciale può fare opendata?"
 date:   2016-04-24 10:34:25
 categories: blog
-tags: blog
+tags:
+  - blog
+  - opendata
 image: /assets/article_images/2016-04-24-un-esercizio-commerciale-puo-fare-opendata/1.jpg
 ---
 
 Mi chiedo da un paio di giorni perchè gli esercizi commerciali no. Cioè mi domando perchè non si possa pensare ad un network di produzione di opendata cittadino che coinvolga veramente tutti: PA, cittadini (attivisti e non) ma anche esercizi commerciali ed aziende.
 **Quando dico che gli opendata sono fenomeno che deve interessare tutti intendo proprio tutti.**
-Prendiamo una farmacia. Riflettevo su quante informazioni (non coperte da privacy) abbia una farmacia di paese che sarebbe utile avere come dati aperti. Una farmacia è un “oggetto” che se connesso in rete può darvi infinite informazioni su di un territorio (per in fanatici dell internet delle cose). 
+Prendiamo una farmacia. Riflettevo su quante informazioni (non coperte da privacy) abbia una farmacia di paese che sarebbe utile avere come dati aperti. Una farmacia è un “oggetto” che se connesso in rete può darvi infinite informazioni su di un territorio (per in fanatici dell internet delle cose).
 
 Una farmacia sa quanti medicinali vende in una zona e quanti medicinali non vende nella stessa zona. Una farmacia sa quanti prodotti da banco vende, quanto la gente si cura con un medicinale piuttosto che un altro con lo stesso principio. Se poi questo lo moltiplicate per le informazioni a disposizione nelle farmacie di Prato (ad esempio) avrete un quadro interessante anche sul tipo di medicinali venduti in città e conseguentemente potrete derivarne interessanti analisi sulle patologie dei cittadini. Magari geo-referenziando un po’ di queste informazioni (sino a scalarle a livello nazionale) sarebbero a tutti molto più chiare le abitudini nelle cure e le differenze di patologie in base alla zona geografica in cui si vive.
 

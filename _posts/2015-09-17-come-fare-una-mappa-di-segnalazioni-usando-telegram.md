@@ -13,6 +13,7 @@ tags:
   - prato
   - social
   - telegram
+  - crowdsourcing
 ---
 <p style="text-align: justify;">
   Chi come me sperimenta col digitale si sarà sicuramente imbattuto in una di quelle applicazioni per segnalare tramite telefono un&#8217;informazione &#8220;georiferita&#8221; ossia associata ad un punto su una mappa.

@@ -3,7 +3,7 @@ layout: post
 title:  "I social e la gestione della crisi"
 date:   2016-03-27 22:34:25
 categories: blog
-tags: blog
+tags: emergenze
 image: /assets/article_images/2016-03-27-I-social-e-la-gestione-delle-crisi/facebook-security-check.png
 ---
 
